@@ -1,0 +1,1388 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Article{A.Noda2003,
+  Title                    = {Critical grid size for simulating convective storms: A case study of the
+Del City supercell storm},
+  Author                   = {A. Noda, H. Niino},
+  Journal                  = {Geophysical Research Letters},
+  Year                     = {2003},
+
+  File                     = {:full_texts/ANoda2003.pdf:PDF},
+  Keywords                 = {grey zone},
+  Owner                    = {jha026},
+  Timestamp                = {2018.09.25}
+}
+
+@Article{A.Verrelle2014,
+  Title                    = {Sensitivity of high-resolution idealized simulations of thunderstorms
+to horizontal resolution and turbulence parametrization},
+  Author                   = {A. Verrelle, D. Ricard, C. Lac},
+  Journal                  = {Royal Meteorological Society},
+  Year                     = {2014},
+
+  File                     = {:full_texts/AVerrelle2014.pdf:PDF},
+  Keywords                 = {grey zone},
+  Owner                    = {jha026},
+  Timestamp                = {2018.09.25}
+}
+
+@Article{AaronJohnson2013,
+  Title                    = {Object-Based Evaluation of the Impact of Horizontal Grid Spacing
+on Convection-Allowing Forecasts},
+  Author                   = {Aaron Johnson, Xuguang Wang, Fanyou Kong, Ming Xue},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2013},
+
+  File                     = {:full_texts/AaronJohnson2013.pdf:PDF},
+  Owner                    = {jha026},
+  Timestamp                = {2018.09.25}
+}
+
+@Article{doi:10.1175/JCLI-D-16-0069.1,
+  Title                    = {An Explanation for the Sensitivity of the Mean State of the Community Atmosphere Model to Horizontal Resolution on Aquaplanets},
+  Author                   = {Adam R. Herrington, Kevin A. Reed},
+  Journal                  = {Journal of Climate},
+  Year                     = {2017},
+  Number                   = {13},
+  Pages                    = {4781-4797},
+  Volume                   = {30},
+
+  Abstract                 = { AbstractThe sensitivity of the mean state of the Community Atmosphere Model to horizontal resolutions typical of present-day general circulation models is investigated in an aquaplanet configuration. Nonconvergence of the mean state is characterized by a progressive drying of the atmosphere and large reductions in cloud coverage with increasing resolution. Analyses of energy and moisture budgets indicate that these trends are balanced by variations in moisture transport by the resolved circulation, and a reduction in activity of the convection scheme. In contrast, the large-scale precipitation rate increases with resolution, which is approximately balanced by greater advection of dry static energy associated with more active resolved vertical motion in the ascent region of the Hadley cell.An explanation for the sensitivity of the mean state to horizontal resolution is proposed, based on linear Boussinesq theory. The authors hypothesize that an increase in horizontal resolution in the model leads to a reduction in horizontal scale of the diabatic forcing arising from the column physics, facilitating finescale flow and faster resolved convective updrafts within the dynamical core, and steering the coupled system toward a new mean state. This hypothesis attempts to explain the underlying mechanism driving the variations in moisture transport observed in the simulations. },
+  Doi                      = {10.1175/JCLI-D-16-0069.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/JCLI-D-16-0069.1
+ 
+},
+  File                     = {:full_texts/PL_articles/greyzone/HerringtonAndReed2017.pdf:PDF},
+  Keywords                 = {ECMWF GT, grey zone},
+  Url                      = {https://doi.org/10.1175/JCLI-D-16-0069.1}
+}
+
+@Misc{ALERTNESS2018,
+  Title                    = {ALERTNESS proposal},
+
+  Author                   = {ALERTNESS},
+  Year                     = {2018},
+
+  File                     = {:media/matildah/LaCieRugged/to_sync/bibliotek/full_texts/ALERTNESS_proposal.pdf:PDF},
+  Owner                    = {matildah},
+  Timestamp                = {2018.11.27}
+}
+
+@Article{AliceK.Duvivier2017,
+  Title                    = {A Case Study of Observed and Modeled Barrier Flow in the Denmark
+Strait in May 2015},
+  Author                   = {Alice K. Duvivier, John J. Cassano, Steven Greco, G. David Emmitt,},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2017},
+
+  File                     = {:full_texts/AliceKDuvivier2017.pdf:PDF},
+  Keywords                 = {grey zone},
+  Owner                    = {jha026},
+  Timestamp                = {2018.09.25}
+}
+
+@Article{Baguley,
+  Title                    = {Methods: When correlations go bad},
+  Author                   = {Thom Baguley},
+  Journal                  = {The brittish psycological society},
+
+  File                     = {:media/matildah/LaCieRugged/to_sync/bibliotek/full_texts/Baguley.pdf:PDF},
+  Keywords                 = {statistics, correlation, regression},
+  Owner                    = {matildah},
+  Timestamp                = {2018.11.23},
+  Url                      = {https://thepsychologist.bps.org.uk/volume-23/edition-2/methods-when-correlations-go-bad}
+}
+
+@Article{doi:10.1175/1520-0493(2001)129<2362:IOHROT>2.0.CO;2,
+  Title                    = {Impact of Horizontal Resolution on the Numerical Simulation of a Midlatitude Squall Line: Implicit versus Explicit Condensation},
+  Author                   = {Bélair, Stéphane and Mailhot, Jocelyn},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2001},
+  Number                   = {9},
+  Pages                    = {2362-2376},
+  Volume                   = {129},
+
+  Abstract                 = {Abstract The relative roles of implicit and explicit condensation schemes in the numerical representation of a squall line that occurred on 7–8 May 1995 over the southern Great Plains are examined in this study using Mesoscale Compressible Community model integrations at 2-, 6-, 18-, and 50-km resolution. Results from the 2-km model in which condensation is explicitly represented agree best with observations and are used as “synthetic” data to evaluate the performance of lower-resolution configurations. It is found that the representation of the squall system greatly deteriorates as resolution is decreased and that the relative roles of the implicit and explicit condensation schemes change dramatically. At 6-km resolution, the leading convective band is barely resolved by the model, and the implicit–explicit partition of precipitation is ambiguous because both implicit and explicit schemes are active simultaneously at the leading edge of the system. In spite of this ambiguity, it is found that use of a deep convection scheme is still beneficial to the squall-line simulation. At 18 km, the convective line is not resolved by the model, and its effect is completely due to the implicit scheme. The mesoscale circulations in the trailing anvil region of the squall system are generated at the small end of the model resolvable scales and are exaggeratedly intense. There is no ambiguity concerning the partition of condensation into implicit and explicit components at this resolution, but the relative intensity of precipitation produced by the two cloud schemes is opposite to what is observed, considering that the implicit scheme is supposed to represent subgrid-scale convection at the leading edge of the system, and the explicit scheme the grid-scale condensation in the trailing anvil. At 50 km, both the leading convection and the mesoscale circulations in the trailing anvil have to be parameterized because they are not resolved at the model grid scale. The precipitation and internal structures associated with the squall line are thus not well represented at this resolution. The results also show that all the configurations produce precipitation accumulations that are much larger than observations. This problem is most important at 18-km resolution. Grid-scale condensation is mostly responsible for this rainfall overestimation. It is suggested that this problem is linked to a misrepresentation of convective-scale processes.},
+  Doi                      = {10.1175/1520-0493(2001)129<2362:IOHROT>2.0.CO;2},
+  Eprint                   = { 
+ https://doi.org/10.1175/1520-0493(2001)129<2362:IOHROT>2.0.CO;2
+ 
+},
+  Keywords                 = {polar lows, ECMWF GT},
+  Url                      = { 
+ https://doi.org/10.1175/1520-0493(2001)129<2362:IOHROT>2.0.CO;2
+ 
+}
+}
+
+@Article{StephaneBelair2001,
+  Title                    = {Impact of Horizontal Resolution on the Numerical Simulation of a Midlatitude Squall Line: Implicit versus Explicit Condensation},
+  Author                   = {Bélair, Stéphane and Mailhot, Jocelyn},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2001},
+
+  File                     = {:full_texts/StephaneBelair2001.pdf:PDF},
+  Keywords                 = {grey zone, ECMWF GT},
+  Owner                    = {jha026},
+  Timestamp                = {2018.09.26}
+}
+
+@Article{BirgitteFurevik2012,
+  Title                    = {Synthetic Aperture Radar imaging of Polar Lows},
+  Author                   = {Birgitte Furevik, Gunnar Noer, Johannes Röhrs},
+  Journal                  = {Oslo Polar Low workshop 21-22 May 2012},
+  Year                     = {2012},
+
+  File                     = {:full_texts/furevik_noer_rohrs_2012.pdf:PDF},
+  Keywords                 = {ECMWF GT, polar lows},
+  Owner                    = {jha026},
+  Timestamp                = {2018.10.04}
+}
+
+@Article{Blechschmidt2008,
+  Title                    = {A 2-year climatology of polar low events over the Nordic Seas from satellite remote sensing},
+  Author                   = {Blechschmidt, A.-M.},
+  Journal                  = {Geophysical Research Letters},
+  Year                     = {2008},
+  Number                   = {9},
+  Volume                   = {35},
+
+  Abstract                 = {A new 2-year data set of polar low events over the Nordic Seas is presented. The detection of polar lows is based on the combined use of thermal infrared AVHRR imagery and SSM/I derived wind speeds from the satellite climatology HOAPS (Hamburg Ocean Atmosphere Parameters and Fluxes from Satellite Data). A total of 90 polar lows are found in 2004 and 2005 with a maximum of polar low activity during the winter months. The main polar low genesis regions lie between Iceland and Finnmark in the Norwegian Sea, in the Barents Sea and in the lee region of Cape Farewell. Interannual variability in polar low activity results mostly from more frequent cold air outbreaks in 2004. Statistics for several atmospheric parameters (e.g., wind speed, precipitation, cloud top temperatures) which describe the intensity of the cyclones are retrieved from satellite observations. The data set builds a basis for studies about polar low forcing mechanisms and for the validation of mesoscale numerical models.},
+  Doi                      = {10.1029/2008GL033706},
+  Eprint                   = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008GL033706},
+  File                     = {:full_texts/Blechschmidt2008.pdf:PDF},
+  Keywords                 = {polar lows, satellite remote sensing, Nordic Seas, ECMWF GT},
+  Url                      = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2008GL033706}
+}
+
+@Article{doi:10.1175/BAMS-D-16-0215.1,
+  Title                    = {The Arctic System Reanalysis, Version 2},
+  Author                   = {Bromwich, D. H. and Wilson, A. B. and Bai, L. and Liu, Z. and Barlage, M. and Shih, C.-F. and Maldonado, S. and Hines, K. M. and Wang, S.-H. and Woollen, J. and Kuo, B. and Lin, H.-C. and Wee, T.-K. and Serreze, M. C. and Walsh, J. E.},
+  Journal                  = {Bulletin of the American Meteorological Society},
+  Year                     = {2018},
+  Number                   = {4},
+  Pages                    = {805-828},
+  Volume                   = {99},
+
+  Abstract                 = { AbstractThe Arctic is a vital component of the global climate, and its rapid environmental evolution is an important element of climate change around the world. To detect and diagnose the changes occurring to the coupled Arctic climate system, a state-of-the-art synthesis for assessment and monitoring is imperative. This paper presents the Arctic System Reanalysis, version 2 (ASRv2), a multiagency, university-led retrospective analysis (reanalysis) of the greater Arctic region using blends of the polar-optimized version of the Weather Research and Forecasting (Polar WRF) Model and WRF three-dimensional variational data assimilated observations for a comprehensive integration of the regional climate of the Arctic for 2000–12. New features in ASRv2 compared to version 1 (ASRv1) include 1) higher-resolution depiction in space (15-km horizontal resolution), 2) updated model physics including subgrid-scale cloud fraction interaction with radiation, and 3) a dual outer-loop routine for more accurate data assimilation. ASRv2 surface and pressure-level products are available at 3-hourly and monthly mean time scales at the National Center for Atmospheric Research (NCAR). Analysis of ASRv2 reveals superior reproduction of near-surface and tropospheric variables. Broadscale analysis of forecast precipitation and site-specific comparisons of downward radiative fluxes demonstrate significant improvement over ASRv1. The high-resolution topography and land surface, including weekly updated vegetation and realistic sea ice fraction, sea ice thickness, and snow-cover depth on sea ice, resolve finescale processes such as topographically forced winds. Thus, ASRv2 permits a reconstruction of the rapid change in the Arctic since the beginning of the twenty-first century–complementing global reanalyses. ASRv2 products will be useful for environmental models, verification of regional processes, or siting of future observation networks. },
+  Doi                      = {10.1175/BAMS-D-16-0215.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/BAMS-D-16-0215.1
+ 
+},
+  Keywords                 = {reanalysis, ECMWF GT},
+  Url                      = { 
+ https://doi.org/10.1175/BAMS-D-16-0215.1
+ 
+}
+}
+
+@Article{doi:10.1175/2009MWR2864.1,
+  Title                    = {A Polar Low Pair over the Norwegian Sea},
+  Author                   = { Burghard Brümmer and Gerd Müller and Gunnar Noer },
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2009},
+  Number                   = {8},
+  Pages                    = {2559-2575},
+  Volume                   = {137},
+
+  Abstract                 = { Abstract During the Lofotes cyclone experiment (LOFZY 2005), two polar lows developed one behind the other inside a cold-air outbreak from the north in the lee of Spitsbergen on 7 March 2005. Buoys, ship, and aircraft measurements as well as satellite imagery are applied to analyze the polar low bulk properties, the horizontal and vertical structure, and the mass, moisture, and heat budget. The lifetime of the system until landfall at northern Norway was 12 h. The generation occurred under the left exit region of an upper-level jet with 70 m s−1. Both polar lows had a radius of 100–130 km and extended to a height of about 2.5 km. The propagation speeds were within 14–17 m s−1 and correspond to the vertically averaged wind velocity of the lowest 2.5 km. In the polar low centers the pressure was about 2–3 hPa lower and the air was 1–2 K warmer and drier than in the surroundings. Aircraft measurements in the second of the two polar lows show an embedded frontlike precipitation band north of the center. Here, the highest low-level winds with 25 m s−1 and the largest fluxes of sensible and latent heat with 290 and 520 W m−2, respectively, were measured (areal averages amounted to 115 and 190 W m−2). Aircraft data show mass convergence in the subcloud layer (0–900 m) and divergence in the cloud layer (900–2500 m). Moisture supply by evaporation from the sea surface was about twice as large as that by convergence in the subcloud layer. The condensation rate in the cloud layer nearly equaled the rate of evaporation at the sea surface. Almost all condensed cloud water was converted to precipitation water. Only half of the precipitation at the cloud base reached the sea surface. },
+  Doi                      = {10.1175/2009MWR2864.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/2009MWR2864.1
+ 
+},
+  Keywords                 = {polar lows, ECMWF GT},
+  Url                      = { 
+ https://doi.org/10.1175/2009MWR2864.1
+ 
+}
+}
+
+@Article{doi:10.1175/1520-0493(2003)131<2394:RRFTSO>2.0.CO;2,
+  Title                    = {Resolution Requirements for the Simulation of Deep Moist Convection},
+  Author                   = {Bryan, George H. and Wyngaard, John C. and Fritsch, J. Michael},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2003},
+  Number                   = {10},
+  Pages                    = {2394-2416},
+  Volume                   = {131},
+
+  Abstract                 = { Abstract The spatial resolution appropriate for the simulation of deep moist convection is addressed from a turbulence perspective. To provide a clear theoretical framework for the problem, techniques for simulating turbulent flows are reviewed, and the source of the subgrid terms in the Navier–Stokes equation is clarified. For decades, cloud-resolving models have used large-eddy simulation (LES) techniques to parameterize the subgrid terms. A literature review suggests that the appropriateness of using traditional LES closures for this purpose has never been established. Furthermore, examination of the assumptions inherent in these closures suggests that grid spacing on the order of 100 m may be required for the performance of cloud models to be consistent with their design. Based on these arguments, numerical simulations of squall lines were conducted with grid spacings between 1 km and 125 m. The results reveal that simulations with 1-km grid spacing do not produce equivalent squall-line structure and evolution as compared to the higher-resolution simulations. Details of the simulated squall lines that change as resolution is increased include precipitation amount, system phase speed, cloud depth, static stability values, the size of thunderstorm cells, and the organizational mode of convective overturning (e.g., upright towers versus sloped plumes). It is argued that the ability of the higher-resolution runs to become turbulent leads directly to the differences in evolution. There appear to be no systematic trends in specific fields as resolution is increased. For example, mean vertical velocity and rainwater values increase in magnitude with increasing resolution in some environments, but decrease with increasing resolution in other environments. The statistical properties of the simulated squall lines are still not converged between the 250- and 125-m runs. Several possible explanations for the lack of convergence are offered. Nevertheless, it is clear that simulations with O(1 km) grid spacing should not be used as benchmark or control solutions for resolution sensitivity studies. The simulations also support the contention that a minimum grid spacing of O(100 m) is required for traditional LES closures to perform appropriately for their design. Specifically, only simulations with 250- and 125-m grid spacing resolve an inertial subrange. In contrast, the 1-km simulations do not even reproduce the correct magnitude or scale of the spectral kinetic energy maximum. Furthermore, the 1-km simulations contain an unacceptably large amount of subgrid turbulence kinetic energy, and do not adequately resolve turbulent fluxes of total water. A guide to resolution requirements for the operational and research communities is proposed. The proposal is based primarily on the intended use of the model output. Even though simulations with O(1 km) grid spacing display behavior that is unacceptable for the model design, it is argued that these simulations can still provide valuable information to operational forecasters. For the research community, O(100 m) grid spacing is recommended for most applications, because a modeling system that is well founded should be desired for most purposes. },
+  Doi                      = {10.1175/1520-0493(2003)131<2394:RRFTSO>2.0.CO;2},
+  Eprint                   = { 
+ https://doi.org/10.1175/1520-0493(2003)131<2394:RRFTSO>2.0.CO;2
+ 
+},
+  Keywords                 = {ECMWF GT, greyzone},
+  Url                      = { 
+ https://doi.org/10.1175/1520-0493(2003)131<2394:RRFTSO>2.0.CO;2
+ 
+}
+}
+
+@Article{C.Claud2009,
+  Title                    = {Observation of polar lows by the Advanced Microwave Sounding Unit: potential and limitations},
+  Author                   = {C . Claud, B. M. Funatsu, G. Noer, J.-P. Chaboureau},
+  Journal                  = {Tellus},
+  Year                     = {2009},
+
+  File                     = {:full_texts/tellus2009.pdf:PDF},
+  Keywords                 = {polar lows},
+  Owner                    = {jha026},
+  Timestamp                = {2018.10.04}
+}
+
+@TechReport{casati2017verification,
+  Title                    = {Verification of Environmental Prediction in Polar Regions: Recommendations for the Year of Polar Prediction},
+  Author                   = {Casati, B and Haiden, T and Brown, B and Nurmi, P and Lemieux, JF},
+  Institution              = {WWRP-2017-1 report available at: http://www. polarprediction. net/fileadmin/user\_upload/www. polarprediction. net/Home/Organization/Task\_Teams/Verifica tion/Casati. YOPPverif. final2017. pdf},
+  Year                     = {2017},
+
+  File                     = {:full_texts/CasatiEtAl2017.pdf:PDF},
+  Keywords                 = {WP1, diagnostics, verification, evaluation},
+  Url                      = {https://www.polarprediction.net/fileadmin/user_upload/www.polarprediction.net/Home/YOPP/YOPP_Task_Teams/YOPP_Verification/Casati.report.YOPPverif.April2017.pdf}
+}
+
+@Article{CoreyK.Potvin2014,
+  Title                    = {Sensitivity of Idealized Supercell Simulations to Horizontal Grid Spacing:
+Implications for Warn-on-Forecast},
+  Author                   = {Corey K. Potvin, Montgomery L. Flora,},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2014},
+
+  File                     = {:full_texts/CoreyKPotvin2014.pdf:PDF},
+  Keywords                 = {grey zone},
+  Owner                    = {jha026},
+  Timestamp                = {2018.09.25}
+}
+
+@Article{Deng2006,
+  Title                    = {On Improving 4-km Mesoscale Model Simulations},
+  Author                   = {Deng, Aijun and Stauffer, David R.},
+  Journal                  = {Journal of Applied Meteorology and Climatology},
+  Year                     = {2006},
+  Number                   = {3},
+  Pages                    = {361-381},
+  Volume                   = {45},
+
+  Abstract                 = { Abstract A previous study showed that use of analysis-nudging four-dimensional data assimilation (FDDA) and improved physics in the fifth-generation Pennsylvania State University–National Center for Atmospheric Research Mesoscale Model (MM5) produced the best overall performance on a 12-km-domain simulation, based on the 18–19 September 1983 Cross-Appalachian Tracer Experiment (CAPTEX) case. However, reducing the simulated grid length to 4 km had detrimental effects. The primary cause was likely the explicit representation of convection accompanying a cold-frontal system. Because no convective parameterization scheme (CPS) was used, the convective updrafts were forced on coarser-than-realistic scales, and the rainfall and the atmospheric response to the convection were too strong. The evaporative cooling and downdrafts were too vigorous, causing widespread disruption of the low-level winds and spurious advection of the simulated tracer. In this study, a series of experiments was designed to address this general problem involving 4-km model precipitation and gridpoint storms and associated model sensitivities to the use of FDDA, planetary boundary layer (PBL) turbulence physics, grid-explicit microphysics, a CPS, and enhanced horizontal diffusion. Some of the conclusions include the following: 1) Enhanced parameterized vertical mixing in the turbulent kinetic energy (TKE) turbulence scheme has shown marked improvements in the simulated fields. 2) Use of a CPS on the 4-km grid improved the precipitation and low-level wind results. 3) Use of the Hong and Pan Medium-Range Forecast PBL scheme showed larger model errors within the PBL and a clear tendency to predict much deeper PBL heights than the TKE scheme. 4) Combining observation-nudging FDDA with a CPS produced the best overall simulations. 5) Finer horizontal resolution does not always produce better simulations, especially in convectively unstable environments, and a new CPS suitable for 4-km resolution is needed. 6) Although use of current CPSs may violate their underlying assumptions related to the size of the convective element relative to the grid size, the gridpoint storm problem was greatly reduced by applying a CPS to the 4-km grid. },
+  Doi                      = {10.1175/JAM2341.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/JAM2341.1
+ 
+},
+  File                     = {:full_texts/Deng2006.pdf:PDF},
+  Keywords                 = {ECMWF GT, greyzone},
+  Url                      = { 
+ https://doi.org/10.1175/JAM2341.1
+ 
+}
+}
+
+@Article{Done2004,
+  Title                    = {The next generation of NWP: explicit forecasts of convection using the weather research and forecasting (WRF) model},
+  Author                   = {Done, James and Davis, Christopher A. and Weisman, Morris},
+  Journal                  = {Atmospheric Science Letters},
+  Year                     = {2004},
+  Number                   = {6},
+  Pages                    = {110-117},
+  Volume                   = {5},
+
+  Abstract                 = {Abstract The performance of daily convection forecasts from 13 May to 9 July 2003 using the Weather Research and Forecast (WRF) model is investigated. Although forecasts using 10-km grid spacing and parameterized convection are not lacking in prediction of convective rainfall, fully explicit forecasts with a 4-km grid spacing more often predict identifiable mesoscale convective systems (MCSs) that correspond to observed systems in time and space. Furthermore, the explicit forecasts more accurately predict the number of MCSs daily and type of organization (termed convective system mode). The explicit treatment of convection in NWP does not necessarily provide a better point specific-forecast, but rather a more accurate depiction of the physics of convective systems. Copyright © 2004 Royal Meteorological Society},
+  Doi                      = {10.1002/asl.72},
+  Eprint                   = {https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/asl.72},
+  File                     = {:full_texts/Done2004.pdf:PDF},
+  Keywords                 = {mesoscale, WRF model, model resolution, mesoscale convective system, forecast verigreyzone, greyzone, ECMWF GT},
+  Url                      = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/asl.72}
+}
+
+@PhdThesis{Drage2005,
+  Title                    = {Atmospheric icing and meteorological variables – Full scale experiment and testing of models},
+  Author                   = {Magne A. Drage},
+  School                   = {The University Centre in Svalbard Longyearbyen, Norway and Department of Geophysics University of Bergen Bergen, Norway},
+  Year                     = {2005},
+
+  File                     = {:full_texts/Thesis_Drage.pdf:PDF},
+  Keywords                 = {atmospheric icing},
+  Owner                    = {jha026},
+  Timestamp                = {2018.10.01},
+  Url                      = {http://bora.uib.no/handle/1956/1547}
+}
+
+@Book{rasmussen_turner_2003,
+  Title                    = {Polar Lows: Mesoscale Weather Systems in the Polar Regions},
+  Author                   = {Erik A. Rasmussen, John Turner},
+  Editor                   = {Cambridge University Press},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2003},
+
+  Doi                      = {10.1017/CBO9780511524974},
+  Keywords                 = {polar lows, ECMWF GT},
+  Place                    = {Cambridge}
+}
+
+@Article{doi:10.1002/jgrd.50246,
+  Title                    = {Polar lows over the Nordic and Labrador Seas: Synoptic circulation patterns and associations with North Atlantic-Europe wintertime weather regimes},
+  Author                   = {Mallet paul-Etienne and Claud Chantal and Cassou Christophe and Noer Gunnar and Kodera Kunihiko},
+  Journal                  = {Journal of Geophysical Research: Atmospheres},
+  Year                     = {2013},
+  Number                   = {6},
+  Pages                    = {2455-2472},
+  Volume                   = {118},
+
+  Abstract                 = {AbstractPolar Lows (PLs) are intense meso‐cyclones forming in winter at high latitudes over open water. Using several datasets of PLs over the North Atlantic, the synoptic environment conducive to their development is determined. The 500 hPa geopotential height, the difference between the sea surface temperature and the 500 hPa air temperature, the near‐surface wind and air temperature, and the 300 hPa potential vorticity present significant anomaly patterns over large areas centered over PL genesis zones, suggesting cold air outbreaks and stratospheric intrusions. PLs develop within a northerly flow in the Norwegian Sea, a northeasterly flow in the Barents Sea and a westerly flow in the Labrador Sea. PLs form after a certain build‐up, the outbreak day being marked by strong winds and PV intensification. The relationship between PLs and daily weather regimes over North Atlantic‐Europe is then investigated. Regimes have a typical lifetime of 8–10 days, similar to the large‐scale anomalies associated with PLs. Over the Norwegian and Barents seas from 1999 to 2011, 37\% of PLs are observed during the Atlantic Ridge regime (AR) and 28\% in the negative phase regime of the North Atlantic Oscillation (NAO), whereas PL probability of occurrence is reduced by half for the positive phase of NAO and the Scandinavian blocking (SB) regimes. Over the Labrador Sea, most PLs occur during NAO+ while they are almost absent during NAO−. Demonstrating the temporal variation of key factors based on an updated dataset and relating PLs to weather regimes will introduce novel and important elements in PL forecasting methodology.},
+  Doi                      = {10.1002/jgrd.50246},
+  Eprint                   = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/jgrd.50246},
+  File                     = {:full_texts/mallet_circulation_patterns_time_dep-1_2012.pdf:PDF},
+  Keywords                 = {polar lows, atmospheric weather regimes, North Atlantic, ECMWF GT},
+  Url                      = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/jgrd.50246}
+}
+
+@Article{doi:10.1175/MWR3097.1,
+  Title                    = {Multiresolution Ensemble Forecasts of an Observed Tornadic Thunderstorm System. Part I: Comparsion of Coarse- and Fine-Grid Experiments},
+  Author                   = {Fanyou Kong, Kelvin K. Droegemeier, Nicki L. Hickmon},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2006},
+  Number                   = {3},
+  Pages                    = {807-833},
+  Volume                   = {134},
+
+  Abstract                 = { Abstract Using a nonhydrostatic numerical model with horizontal grid spacing of 24 km and nested grids of 6- and 3-km spacing, the authors employ the scaled lagged average forecasting (SLAF) technique, developed originally for global and synoptic-scale prediction, to generate ensemble forecasts of a tornadic thunderstorm complex that occurred in north-central Texas on 28–29 March 2000. This is the first attempt, to their knowledge, in applying ensemble techniques to a cloud-resolving model using radar and other observations assimilated within nonhorizontally uniform initial conditions and full model physics. The principal goal of this study is to investigate the viability of ensemble forecasting in the context of explicitly resolved deep convective storms, with particular emphasis on the potential value added by fine grid spacing and probabilistic versus deterministic forecasts. Further, the authors focus on the structure and growth of errors as well as the application of suitable quantitative metrics to assess forecast skill for highly intermittent phenomena at fine scales. Because numerous strategies exist for linking multiple nested grids in an ensemble framework with none obviously superior, several are examined, particularly in light of how they impact the structure and growth of perturbations. Not surprisingly, forecast results are sensitive to the strategy chosen, and owing to the rapid growth of errors on the convective scale, the traditional SLAF methodology of age-based scaling is replaced by scaling predicated solely upon error magnitude. This modification improves forecast spread and skill, though the authors believe errors grow more slowly than is desirable. For all three horizontal grid spacings utilized, ensembles show both qualitative and quantitative improvement relative to their respective deterministic control forecasts. Nonetheless, the evolution of convection at 24- and 6-km spacings is vastly different from, and arguably inferior to, that at 3 km because at 24-km spacing, the model cannot explicitly resolve deep convection while at 6 km, the deep convection closure problem is ill posed and clouds are neither implicitly nor explicitly represented (even at 3-km spacing, updrafts and downdrafts only are marginally resolved). Despite their greater spatial fidelity, the 3-km grid spacing experiments are limited in that the ensemble mean reflectivity tends to be much weaker in intensity, and much broader in aerial extent, than that of any single 3-km spacing forecast owing to amplitude reduction and spatial smearing that occur when averaging is applied to spatially intermittent phenomena. The ensemble means of accumulated precipitation, on the other hand, preserve peak intensity quite well. Although a single case study obviously does not provide sufficient information with which to draw general conclusions, the results presented here, as well as those in Part II (which focuses solely on 3-km grid spacing experiments), suggest that even a small ensemble of cloud-resolving forecasts may provide greater skill, and greater practical value, than a single deterministic forecast using either the same or coarser grid spacing. },
+  Doi                      = {10.1175/MWR3097.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/MWR3097.1
+ 
+},
+  File                     = {:full_texts/PL_articles/greyzone/kongetal2006.pdf:PDF},
+  Keywords                 = {ECMWzone, grey zone},
+  Url                      = { 
+ https://doi.org/10.1175/MWR3097.1
+ 
+}
+}
+
+@Article{doi:10.1002/qj.3105,
+  Title                    = {Exploring the convective grey zone with regional simulations of a cold air outbreak},
+  Author                   = {Field, Paul R. and Broz̆ková, Radmila and Chen, Ming and Dudhia, Jimy and Lac, Christine and Hara, Tabito and Honnert, Rachel and Olson, Joe and Siebesma, Pier and de Roode, Stephan and Tomassini, Lorenzo and Hill, Adrian and McTaggart‐Cowan, Ron},
+  Journal                  = {Quarterly Journal of the Royal Meteorological Society},
+  Number                   = {707},
+  Pages                    = {2537-2555},
+  Volume                   = {143},
+
+  Abstract                 = {Cold air outbreaks can bring snow to populated areas and can affect aviation safety. Shortcomings in the representation of these phenomena in global and regional models are thought to be associated with large systematic cloud‐related radiative flux errors across many models. In this study, nine regional models have been used to simulate a cold air outbreak case at a range of grid spacings (1–16 km) with convection represented explicitly or by a parametrization. Overall, there is more spread between model results for the simulations in which convection is parametrized when compared to simulations in which convection is represented explicitly. The quality of the simulations of both the stratocumulus and the convective regions of the domain are assessed with observational comparisons 24 h into the simulation. The stratocumulus region is not well reproduced by the models, which tend to predict open cell convection with increasing resolution rather than stratocumulus. For the convective region the model spread reduces with increased resolution and there is some improvement in comparison to observations. Comparing models that have the same physical parametrizations or dynamical core suggest that both are important for accurately reproducing this case.},
+  Doi                      = {10.1002/qj.3105},
+  Eprint                   = {https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/qj.3105},
+  Keywords                 = {grey zone, convection permitting models, ECMWF GT},
+  Url                      = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.3105}
+}
+
+@Article{doi:10.1175/JTECH-D-14-00154.1,
+  Title                    = {ASAR and ASCAT in Polar Low Situations},
+  Author                   = {Birgitte Rugaard Furevik and Harald Schyberg and Gunnar Noer and Frank Tveter and Johannes Röhrs},
+  Journal                  = {Journal of Atmospheric and Oceanic Technology},
+  Year                     = {2015},
+  Number                   = {4},
+  Pages                    = {783-792},
+  Volume                   = {32},
+
+  Abstract                 = { AbstractForecasting and monitoring polar lows are, to a large degree, based on satellite observations from passive radiometers and from scatterometer winds in addition to synoptic observations and numerical models. Synthetic aperture radar (SAR) brings higher resolution compared to other remotely sensed sources of ocean wind, such as scatterometer data and passive microwave wind products. The added information in polar low situations from SAR and the increased-resolution scatterometer wind fields are investigated. Statistically, higher variability in the MetOp Advanced Scatterometer (ASCAT) wind is clearly found during polar low situations compared to all situations. Slightly more variability is also seen in the ASCAT 12.5-km wind product compared to the operational European Centre for Medium-Range Weather Forecasts (ECMWF) model surface winds. In two analyzed polar low cases, Environmental Satellite (Envisat) Advanced SAR (ASAR) images reveal numerous interesting features, such as the sharp fronts and the location and strength of the strongest wind field in the polar low. It is likely that if SAR images are available to operational weather forecasting, that it can in some cases lead to earlier detection of polar lows. However, a reliable wind field from SAR is still needed. },
+  Doi                      = {10.1175/JTECH-D-14-00154.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/JTECH-D-14-00154.1
+ 
+},
+  Keywords                 = {ECMWF GT},
+  Url                      = { 
+ https://doi.org/10.1175/JTECH-D-14-00154.1
+ 
+}
+}
+
+@Article{doi:10.1002/qj.1876,
+  Title                    = {A 'hurricane-like' polar low fuelled by sensible heat flux: high-resolution numerical simulations},
+  Author                   = {Føre, Ivan and Kristjánsson, Jón Egill and Kolstad, Erik W. and Bracegirdle, Thomas J. and Saetra, Øyvind and Røsting, Bjørn},
+  Journal                  = {Quarterly Journal of the Royal Meteorological Society},
+  Year                     = {2012},
+  Number                   = {666},
+  Pages                    = {1308-1324},
+  Volume                   = {138},
+
+  Abstract                 = {Abstract An unusually deep (961 hPa) hurricane‐like polar low over the Barents Sea during 18–21 December 2002 is studied by a series of fine‐mesh (3 km) experiments using the Weather Research and Forecasting (WRF) model. The simulated polar low was similar to hurricanes and similar previous case‐studies in that it had a clear, calm and warm eye structure surrounded by moist convection organized in spiral cloud bands, and the highest surface wind speeds were found in the eye wall. The proximity to the sea ice and the high surface wind speeds (about 25 m s−1) during the deepening stage triggered extremely high surface sensible and latent heat fluxes at the eye wall of about 1200 and 400 W m−2, respectively. As the polar low moved eastward and weakened, maximum surface sensible and latent heat fluxes dropped to about 600 and 300 W m−2, respectively. Two types of sensitivity experiments were designed to analyse the physical properties of the polar low. Firstly, physical processes such as condensational heating and sensible and/or latent heat fluxes were switched off–on throughout the simulation. In the second type, these processes were turned off–on after the polar low had reached its peak intensity, which minimized the deformation of the polar‐low environment, making it suitable to study the direct effect of physical processes on the mature vortex. The experiments suggest that the deepening stage of the polar low was dominated by baroclinic growth and that upper‐level potential vorticity forcing contributed throughout its life cycle. After the deepening stage, the baroclinicity vanished and the polar low was fuelled by surface sensible heat fluxes while latent heat fluxes played a minor role. Condensational heating was not essential for the energetics of the polar low. Surprisingly, in experiments where condensational heating was turned off throughout the simulation, the polar low intensified. Copyright © 2012 Royal Meteorological Society},
+  Comment                  = {Cites by McInnesEtAl2011},
+  Doi                      = {10.1002/qj.1876},
+  Eprint                   = {https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/qj.1876},
+  File                     = {:full_texts/ForeEtAl2012.pdf:PDF},
+  Keywords                 = {polar lows, numerical experiments, air–sea interactions, upper‐level forcing, ECMWF GT},
+  Url                      = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.1876}
+}
+
+@Article{doi:10.1002/qj.825,
+  Title                    = {The full life cycle of a polar low over the Norwegian Sea observed by three research aircraft flights},
+  Author                   = {Føre, Ivan and Kristjánsson, Jón Egill and Saetra, Øyvind and Breivik, Øyvind and Røsting, Bjørn and Shapiro, Melvyn},
+  Journal                  = {Quarterly Journal of the Royal Meteorological Society},
+  Number                   = {660},
+  Pages                    = {1659-1673},
+  Volume                   = {137},
+
+  Abstract                 = {Abstract During 3–4 March 2008, the Norwegian IPY-THORPEX field campaign successfully carried out three flight missions that observed the full life cycle of a polar low over the Norwegian Sea. Here the three-dimensional structure of the polar low has been investigated using dropsonde data from the three flights. The polar low developed in a cold air outbreak, with temperature differences between the sea surface and 500 hPa of about 45–50°C. Cross-sections show that the horizontal gradients of potential temperature weakened as the polar low matured, suggesting that baroclinic energy conversion took place. Dropsonde data of potential temperature and relative humidity show evidence of a tropopause fold, which is possibly a manifestation of upper-level forcing. This is corroborated by potential vorticity inversion, which shows a dominant role of upper-level forcing throughout the polar low's lifetime. During the cyclogenesis stage the polar low circulation was confined below 700 hPa, with a northerly low-level jet of 26 m s−1. In the mature stage, its circulation reached up to the tropopause (∼450 hPa), with maximum wind speed between 700 and 900 hPa of about 26–28 m s−1. At this stage the polar low warm core was about 3 K warmer than surrounding air masses. The deep moist towers at the eye-like structure of the polar low extended up to the tropopause with relative humidity values above 70\%, indicating a possibly important role for condensational heating in the development. Estimates of surface fluxes of sensible and latent heat using temperature and moisture from the dropsonde data show latent heat fluxes west of the polar low increasing from 175 to 300 W m−2 as the low matured, while the sensible heat fluxes rose from 200 to 280 W m−2, suggesting a gradually increasing contribution of surface fluxes to the energetics of the polar low with time. Copyright © 2011 Royal Meteorological Society},
+  Comment                  = {Cites McInnes2011},
+  Doi                      = {10.1002/qj.825},
+  Eprint                   = {https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/qj.825},
+  File                     = {:full_texts/ForeEtAl2011.pdf:PDF},
+  Keywords                 = {research aircraft measurements, PV inversion, IPY-THORPEX, polar lows},
+  Url                      = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.825}
+}
+
+@Article{doi:10.1002/qj.1930,
+  Title                    = {A polar low observed over the Norwegian Sea on 3–4 March 2008: high-resolution numerical experiments},
+  Author                   = {Føre, Ivan and Nordeng, Thor Erik},
+  Journal                  = {Quarterly Journal of the Royal Meteorological Society},
+  Number                   = {669},
+  Pages                    = {1983-1998},
+  Volume                   = {138},
+
+  Abstract                 = {Abstract A polar low (PL) observed over the Norwegian Sea by the IPY-THORPEX research aircraft campaign during 3–4 March 2008 was studied by a series of fine-mesh (3 km) experiments using the state-of-the-art Weather Research and Forecasting (WRF) model. The full-physics experiment simulated the PL intensity, baroclinic nature, surface wind speed and track rather well compared to dropsonde observations and satellite images. Two types of sensitivity experiments were designed to analyse the physical properties of the PL. First, physical processes such as condensational heating and sensible and/or latent heat fluxes were switched off throughout the whole simulation. In the second type, these processes were turned off at later times, which minimized the modification of the polar low environment caused by the absence of one or all of them over a long time period, making it suitable to study the direct effect of the physical processes on the PL itself. These two types of sensitivity experiments suggested the following: low-level baroclinic energy conversion was of primary importance for the PL development, while other physical processes had a minor direct impact on the PL intensity. The surface latent heat fluxes, and to a lesser extent sensible heat fluxes, played an indirect role in the sense that they set up and supported the baroclinic environment vital for the PL development. Condensational heating, however, was essential to set up the initial baroclinic environment favourable for the PL intensification, while it had a modest indirect effect thereafter. The experiments indicated that in the late mature stage, after baroclinicity vanished, surface energy fluxes (sensible and/or latent heat) might have contributed to the PL energetics. How the variability in the simulated moist convection, the thermal structure of the PL core, and surface energy fluxes in each experiment affected the PL was difficult to answer. Copyright © 2012 Royal Meteorological Society},
+  Doi                      = {10.1002/qj.1930},
+  Eprint                   = {https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/qj.1930},
+  Keywords                 = {polar lows, condensational heating, surface energy fluxes, IPY-THORPEX},
+  Url                      = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.1930}
+}
+
+@Article{GeorgeH.Bryan2011,
+  Title                    = {Sensitivity of a Simulated Squall Line to Horizontal Resolution and
+Parameterization of Microphysics},
+  Author                   = {George H. Bryan, Hugh Morrison},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2011},
+
+  File                     = {:full_texts/GeorgeHBryan2011.pdf:PDF},
+  Keywords                 = {grey zone},
+  Owner                    = {jha026},
+  Timestamp                = {2018.09.25}
+}
+
+@Article{GeorgeH.Bryan2003,
+  Title                    = {Resolution Requirements for the Simulation of Deep Moist Convection},
+  Author                   = {George H. Bryan, John C. Wyngaard, J. Michael Fritch},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2003},
+
+  File                     = {:full_texts/GeorgeHBryan2003.pdf:PDF},
+  Keywords                 = {grey zone},
+  Owner                    = {jha026},
+  Timestamp                = {2018.09.25}
+}
+
+@Article{Group1998,
+  Title                    = {The Labrador Sea Deep Convection Experiment},
+  Author                   = {The Lab Sea Group},
+  Journal                  = {Bulletin of the American Meteorological Society},
+  Year                     = {1998},
+
+  Comment                  = {*The Lab Sea Group:
+J. Marshall, Massachusetts Institute of Technology, Cambridge,
+Massachusetts.
+F. Dobson, Bedford Institute of Oceanography, Dartmouth, Nova
+Scotia, Canada.
+K. Moore, University of Toronto, Toronto, Canada.
+P. Rhines, University of Washington, Seattle, Washington.
+M. Visbeck, Lamont-Doherty Earth Observatory, Palisades, New
+York.
+E. d’Asaro, Department of Meteorology, University of Washing-
+ton, Seattle, Washington.
+K. Bumke, Department of Meteorology, Institut für Meereskunde,
+University of Kiel, Kiel, Germany.
+S. Chang, Naval Research Laboratory, Monterey, California.
+R. Davis, Scripps Institution of Oceanography, San Diego, Cali-
+fornia.
+K. Fischer, Environmental Research Institute of Michigan, Ann
+Arbor, Michigan.
+R. Garwood, Naval Postgraduate School, Monterey, California.
+P. Guest, Naval Postgraduate School, Monterey, California.
+R. Harcourt, Naval Postgraduate School, Monterey, California.
+C. Herbaut, Massachusetts Institute of Technology, Cambridge,
+Massachusetts. T. Holt, Naval Research Laboratory, Monterey, California.
+J. Lazier, Bedford Institute of Oceanography, Dartmouth, Nova
+Scotia, Canada.
+S. Legg, Woods Hole Oceanographic Institution, Woods Hole,
+Massachusetts.
+J. McWilliams, University of California, Los Angeles, Los An-
+geles, California.
+R. Pickart, Woods Hole Oceanographic Institution, Woods Hole,
+Massachusetts.
+M. Prater, University of Rhode Island, Kingston, Rhode Island.
+I. Renfrew, University of Toronto, Toronto, Canada.
+F. Schott, Department of Meteorology, Institut für Meereskunde,
+University of Kiel, Kiel, Germany.
+U. Send, Department of Meteorology, Institut für Meereskunde,
+University of Kiel, Kiel, Germany.
+W. Smethie, Lamont-Doherty Earth Observatory, Palisades, New
+York.},
+  File                     = {:full_texts/thelabseagroup1998.pdf:PDF},
+  Owner                    = {jha026},
+  Timestamp                = {2018.10.02}
+}
+
+@Article{doi:10.1175/1520-0485(1998)028<1107:NAWWAW>2.0.CO;2,
+  Title                    = {North Atlantic Wind Waves and Wind Stress Fields from Voluntary Observing Ship Data},
+  Author                   = {Gulev, Sergey K. and Hasse, Lutz},
+  Journal                  = {Journal of Physical Oceanography},
+  Year                     = {1998},
+  Number                   = {6},
+  Pages                    = {1107-1130},
+  Volume                   = {28},
+
+  Abstract                 = { Abstract On the basis of the collection of individual marine observations available from the Comprehensive Ocean–Atmosphere Data Set, major parameters of the sea state were evaluated. Climatological fields of wind waves and swell height and period, as well as significant wave height and resultant period are obtained for the North Atlantic Ocean for the period from 1964 to 1993. Validation of the results against instrumental records from National Data Buoy Center buoys and ocean weather station measurements indicate relatively good agreement for wave height and systematic biases in the visually estimated periods that were corrected. Wave age, which is important for wind stress estimates, was evaluated form wave and wind observations. The climatology of wave age indicates younger waves in winter in the North Atlantic midlatitudes and Tropics. Wave age estimates were applied to the calculations of the wind stress using parameterizations from field experiments. Differences between wave-age-based and traditional estimates are not negligible in wintertime in midlatitudes and Tropics where wave-induced stress contributes from 5\% to 15\% to the total stress estimates. Importance of the obtained effects for ocean circulation and climate variability is discussed. },
+  Comment                  = {Recomended by Eirik},
+  Doi                      = {10.1175/1520-0485(1998)028<1107:NAWWAW>2.0.CO;2},
+  Eprint                   = { 
+ https://doi.org/10.1175/1520-0485(1998)028<1107:NAWWAW>2.0.CO;2
+ 
+},
+  File                     = {:full_texts/GulevAndHasse1997.pdf:PDF},
+  Keywords                 = {ALERTNESS, lese},
+  Url                      = { 
+ https://doi.org/10.1175/1520-0485(1998)028<1107:NAWWAW>2.0.CO;2
+ 
+}
+}
+
+@Article{IanA.Renfrew1998,
+  Title                    = {Mesoscale Forecasting during a Field Program: Meteorological Support of the Labrador Sea Deep Convection Experiment},
+  Author                   = {Ian A. Renfrew, G. W. K. Moore, Teddy R. Holt, Simon W. Chang, Peter Guest},
+  Journal                  = {Bulletin of the American Meteorological Society},
+  Year                     = {1998},
+
+  File                     = {:full_texts/mesoscale_forecasting_labrador_sea_1999.pdf:PDF},
+  Owner                    = {jha026},
+  Timestamp                = {2018.10.04}
+}
+
+@Article{doi:10.1002/grl.50705,
+  Title                    = {Observations of the ocean response to cold air outbreaks and polar lows over the Nordic Seas},
+  Author                   = {Isachsen P. E. , Drivdal M. , Eastwood S. , Gusdal Y. , Noer G. , Saetra Ø.},
+  Journal                  = {Geophysical Research Letters},
+  Number                   = {14},
+  Pages                    = {3667-3671},
+  Volume                   = {40},
+
+  Abstract                 = {The impact of intense atmospheric mesocyclones—polar lows—on the ocean circulation at high latitudes, as well as the role of ocean feedbacks on the evolution of these atmospheric systems themselves, is under debate. Here, the upper ocean response to atmospheric forcing before, during, and after polar lows events over the Nordic Seas is studied. A set of 96 unique polar low tracks from 2002 to 2010 are collocated with satellite‐based sea surface temperature and altimeter observations, and with surface drifter observations. The satellite data show systematic temperature and sea level drops and enhanced geostrophic kinetic energies over the days leading up to polar low events. These data however reveal little information about the ocean response to the polar lows themselves. The drifter observations largely agree with the satellite data on the response to synoptic conditions, but they also give indication of enhanced upper‐ocean kinetic energies immediately following the passage of polar lows.},
+  Doi                      = {10.1002/grl.50705},
+  Eprint                   = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/grl.50705},
+  File                     = {:full_texts/IsachsenEtAl2013.pdf:PDF},
+  Keywords                 = {polar lows, ocean response, ECMWF GT},
+  Url                      = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/grl.50705}
+}
+
+@Manual{JabRef,
+  Title                    = {JabRef},
+  Author                   = {{JabRef Development Team}},
+  Year                     = {2016},
+
+  Url                      = {https://www.jabref.org}
+}
+
+@Article{Kolstad2015,
+  Title                    = {Extreme small-scale wind episodes over the Barents Sea: When, where and why?},
+  Author                   = {Kolstad, Erik W.},
+  Journal                  = {Climate Dynamics},
+  Year                     = {2015},
+
+  Month                    = {Oct},
+  Number                   = {7},
+  Pages                    = {2137--2150},
+  Volume                   = {45},
+
+  Abstract                 = {The Barents Sea is mostly ice-free during winter and therefore prone to severe weather associated with marine cold air outbreaks, such as polar lows. With the increasing marine activity in the region, it is important to study the climatology and variability of episodes with strong winds, as well as to understand their causes. Explosive marine cyclogenesis is usually caused by a combination of several mechanisms: upper-level forcing, stratospheric dry intrusions, latent heat release, surface energy fluxes, low-level baroclinicity. An additional factor that has been linked to extremely strong surface winds, is low static stability in the lower atmosphere, which allows for downward transfer of high-momentum air. Here the most extreme small-scale wind episodes in a high-resolution (5 km) 35-year hindcast were analyzed, and it was found that they were associated with unusually strong low-level baroclinicity and surface heat fluxes. And crucially, the 12 most severe episodes had stronger cold-air advection than 12 slightly less severe cases, suggesting that marine cold air outbreaks are the most important mechanism for extreme winds on small spatial scales over the Barents Sea. Because weather models are often unable to explicitly forecast small-scale developments in data-sparse regions such as the Barents Sea, these results can be used by forecasters as supplements to forecast model data.},
+  Day                      = {01},
+  Doi                      = {10.1007/s00382-014-2462-4},
+  File                     = {:full_texts/Kolstad2015.pdf:PDF},
+  ISSN                     = {1432-0894},
+  Url                      = {https://doi.org/10.1007/s00382-014-2462-4}
+}
+
+@PhdThesis{Kolstad2007,
+  Title                    = {Extreme winds in the Nordic Seas: polar lows and Arctic fronts in a changing climate},
+  Author                   = {Kolstad, Erik Wilhelm},
+  School                   = {University of Bergen, Norway},
+  Year                     = {2007},
+
+  File                     = {:full_texts/Kolstad2006.pdf:PDF;:full_texts/Thesis_Erik_Kolstad.pdf:PDF},
+  Keywords                 = {polar lows},
+  Owner                    = {jha026},
+  Timestamp                = {2018.10.01},
+  Url                      = {http://bora.uib.no/handle/1956/2329}
+}
+
+@Article{doi:10.1111/j.1600-0870.2006.00171.x,
+  Title                    = {A new climatology of favourable conditions for reverse-shear polar lows},
+  Author                   = {Kolstad, Erik W.},
+  Journal                  = {Tellus A: Dynamic Meteorology and Oceanography},
+  Year                     = {2006},
+  Number                   = {3},
+  Pages                    = {344-354},
+  Volume                   = {58},
+
+  Doi                      = {10.1111/j.1600-0870.2006.00171.x},
+  Eprint                   = { 
+ https://doi.org/10.1111/j.1600-0870.2006.00171.x
+ 
+},
+  File                     = {:full_texts/kolstad_om_reversert_skjer_telldoc.pdf:PDF;:full_texts/Kolstad2006.pdf:PDF},
+  Keywords                 = {ECMWF GT, polar lows},
+  Publisher                = {Taylor \& Francis},
+  Url                      = { 
+ https://doi.org/10.1111/j.1600-0870.2006.00171.x
+ 
+}
+}
+
+@Book{Kolstad2006,
+  Title                    = {Uvær},
+  Author                   = {Kolstad, Erik W.},
+  Publisher                = {J. W. Cappelens Forlag: Oslo},
+  Year                     = {2006},
+
+  Comment                  = {Popular science, impact of polar lows on people and society},
+  Owner                    = {jha026},
+  Timestamp                = {2018.10.09}
+}
+
+@Article{doi:10.1002/qj.2980,
+  Title                    = {Sensitivity of an apparently hurricane-like polar low to sea-surface temperature},
+  Author                   = {Kolstad, Erik W. and Bracegirdle, T. J.},
+  Journal                  = {Quarterly Journal of the Royal Meteorological Society},
+  Year                     = {2017},
+  Number                   = {703},
+  Pages                    = {966-973},
+  Volume                   = {143},
+
+  Abstract                 = {Polar lows are intense, small‐scale cyclones in the high latitudes. Typically, polar lows are initiated through baroclinic processes, but they sometimes evolve into a post‐baroclinic mature stage where air–sea interaction becomes more important. In this stage some polar lows have developed hurricane‐like cloud structures, and idealized axisymmetric hurricane models have indicated that air–sea interaction‐fuelled pressure drops of up to 50 hPa are theoretically possible in polar environments. Here we study a polar low that formed in an extreme marine cold air outbreak over the Barents Sea and which had cloud structures with similarities to hurricanes. Using a high‐resolution weather model, we artificially modified the sea‐surface temperatures (SSTs) to assess if the polar low was close to developing into a true hurricane‐like system, with air–sea interaction processes leading to intensification in the post‐baroclinic, mature phase of its life cycle. The polar low simulations with SSTs augmented by 2–6 K produced more intense mature phases than the control experiment (with unmodified SSTs). The intensity of the polar low in the last of these, which it must be pointed out was unrealistic with an SST increase of 6 K, surpassed the intensity in the earlier baroclinic phase. The experiment where the SSTs were reduced by 2 K did not produce a much weaker polar low than the control run. Broadly speaking, our experiments suggest that in this case large and unrealistic SST increases would be needed for apparently hurricane‐like polar lows to exhibit true hurricane‐like behaviour, but nevertheless air–sea interaction did drive a more intense and prolonged mature phase.},
+  Doi                      = {10.1002/qj.2980},
+  Eprint                   = {https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/qj.2980},
+  File                     = {:full_texts/KolstadAndBracegirdle2016.pdf:PDF},
+  Keywords                 = {polar lows, Arctic, air–sea interaction, surface heat fluxes, numerical modellows, ECMWF GT},
+  Publisher                = {Wiley Online Library},
+  Url                      = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2980}
+}
+
+@Article{kristiansen2011high,
+  Title                    = {High-resolution ensemble prediction of a polar low development},
+  Author                   = {Kristiansen, J{\o}rn and S{\o}rland, Silje Lund and Iversen, Trond and Bj{\o}rge, Dag and K{\O}Ltzow, Morten {\O}Degaard},
+  Journal                  = {Tellus A: Dynamic Meteorology and Oceanography},
+  Year                     = {2011},
+  Number                   = {3},
+  Pages                    = {585--604},
+  Volume                   = {63},
+
+  File                     = {:full_texts/KristiansenEtAl2011.pdf:PDF},
+  Keywords                 = {polar lows. WP1},
+  Publisher                = {Taylor \& Francis},
+  Url                      = {https://www.tandfonline.com/doi/abs/10.1111/j.1600-0870.2010.00498.x}
+}
+
+@Article{kristjansson2011norwegian,
+  Title                    = {The Norwegian IPY--THORPEX: Polar lows and Arctic fronts during the 2008 And{\o}ya campaign},
+  Author                   = {Kristj{\'a}nsson, JE and Barstad, I and Aspelien, T and F{\o}re, I and God{\o}y, {\O} and Hov, {\O} and Irvine, E and Iversen, T and Kolstad, E and Nordeng, TE and others},
+  Journal                  = {Bulletin of the American Meteorological Society},
+  Year                     = {2011},
+  Number                   = {11},
+  Pages                    = {1443--1466},
+  Volume                   = {92},
+
+  File                     = {:full_texts/KristjanssonEtAl2008.pdf:PDF},
+  Keywords                 = {THORPEX, polar lows},
+  Publisher                = {American Meteorological Society},
+  Url                      = {https://journals.ametsoc.org/doi/abs/10.1175/2011BAMS2901.1}
+}
+
+@MastersThesis{Kvammen2014,
+  Title                    = {Polar low trajectories in the Nordic Seas 1999-2013:
+a statistical analysis using kernel density methods},
+  Author                   = {Ylva Kirsten Kvammen},
+  School                   = {Department of Physics and Technology, UiT, The Arctic University of Norway},
+  Year                     = {2014},
+
+  File                     = {:full_texts/ylva_k_kvammen.pdf:PDF},
+  Keywords                 = {polar lows},
+  Owner                    = {jha026},
+  Timestamp                = {2018.10.02}
+}
+
+@Article{doi:10.1175/MWR-D-13-00171.1,
+  Title                    = {Polar Lows over the Nordic Seas: Improved Representation in ERA-Interim Compared to ERA-40 and the Impact on Downscaled Simulations},
+  Author                   = {Laffineur, Thibaut and Claud, Chantal and Chaboureau, Jean-Pierre and Noer, Gunnar},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2014},
+  Number                   = {6},
+  Pages                    = {2271-2289},
+  Volume                   = {142},
+
+  Abstract                 = { AbstractPolar lows are intense high-latitude mesocyclones that form during the cold season over open sea. Their relatively small-scale and short life span lead to a rather poor representation in model outputs and meteorological reanalyses. In this paper, the ability of the Interim European Centre for Medium-Range Weather Forecasts (ECMWF) Re-Analysis (ERA-Interim) to represent polar lows over the Norwegian and Barents Sea is assessed, and a comparison with the 40-yr ECMWF Re-Analysis (ERA-40) is provided for three cold seasons (1999–2000 until 2001–02). A better representation in ERA-Interim is found, with 13 systems captured out of the 29 observed, against 6 in the case of ERA-40. Reasons for the lack of representation are identified. Unexpectedly, the representation of different polar low sizes does not appear to be linked to the resolution. Rather, it is the representation of synoptic conditions that appears to be essential. In a second part, a downscaling is conducted using the mesoscale model Méso-NH. For each observed polar low, a pair of simulations is performed: one initialized by ERA-Interim and the other one by ERA-40. An improvement is noted with 22 polar lows represented when ERA-Interim is used. Through a model-to-satellite approach, it is shown that even if polar lows are simulated, convective processes remain insufficiently represented. Wind speeds, which were underestimated in reanalyses, are nevertheless more realistic in the Méso-NH simulations. These results are supported by a spectral analysis of reanalyses and Méso-NH fields. },
+  Comment                  = {cites McInnesAetAle2011},
+  Doi                      = {10.1175/MWR-D-13-00171.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/MWR-D-13-00171.1
+ 
+},
+  File                     = {:full_texts/LaffineurEtAl2013.pdf:PDF},
+  Keywords                 = {polar lows},
+  Url                      = { 
+ https://doi.org/10.1175/MWR-D-13-00171.1
+ 
+}
+}
+
+@Article{doi:10.1175/2008MWR2332.1,
+  Title                    = {Characteristics of High-Resolution Versions of the Met Office Unified Model for Forecasting Convection over the United Kingdom},
+  Author                   = {Lean, Humphrey W. and Clark, Peter A. and Dixon, Mark and Roberts, Nigel M. and Fitch, Anna and Forbes, Richard and Halliwell, Carol},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2008},
+  Number                   = {9},
+  Pages                    = {3408-3424},
+  Volume                   = {136},
+
+  Abstract                 = { Abstract With many operational centers moving toward order 1-km-gridlength models for routine weather forecasting, this paper presents a systematic investigation of the properties of high-resolution versions of the Met Office Unified Model for short-range forecasting of convective rainfall events. The authors describe a suite of configurations of the Met Office Unified Model running with grid lengths of 12, 4, and 1 km and analyze results from these models for a number of convective cases from the summers of 2003, 2004, and 2005. The analysis includes subjective evaluation of the rainfall fields and comparisons of rainfall amounts, initiation, cell statistics, and a scale-selective verification technique. It is shown that the 4- and 1-km-gridlength models often give more realistic-looking precipitation fields because convection is represented explicitly rather than parameterized. However, the 4-km model representation suffers from large convective cells and delayed initiation because the grid length is too long to correctly reproduce the convection explicitly. These problems are not as evident in the 1-km model, although it does suffer from too numerous small cells in some situations. Both the 4- and 1-km models suffer from poor representation at the start of the forecast in the period when the high-resolution detail is spinning up from the lower-resolution (12 km) starting data used. A scale-selective precipitation verification technique implies that for later times in the forecasts (after the spinup period) the 1-km model performs better than the 12- and 4-km models for lower rainfall thresholds. For higher thresholds the 4-km model scores almost as well as the 1-km model, and both do better than the 12-km model. },
+  Doi                      = {10.1175/2008MWR2332.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/2008MWR2332.1
+ 
+},
+  File                     = {:full_texts/HumphreyWLean2008.pdf:PDF},
+  Keywords                 = {grey zone, ECMWF GT},
+  Url                      = { 
+ https://doi.org/10.1175/2008MWR2332.1
+ 
+}
+}
+
+@Article{Li2014,
+  Title                    = {Improvements in WRF simulation skills of southeastern United States summer rainfall: physical parameterization and horizontal resolution},
+  Author                   = {Li, Laifang and Li, Wenhong and Jin, Jiming},
+  Journal                  = {Climate Dynamics},
+  Year                     = {2014},
+
+  Month                    = {Oct},
+  Number                   = {7},
+  Pages                    = {2077--2091},
+  Volume                   = {43},
+
+  Abstract                 = {Realistic regional climate simulations are important in understanding the mechanisms of summer rainfall in the southeastern United States (SE US) and in making seasonal predictions. In this study, skills of SE US summer rainfall simulation at a 15-km resolution are evaluated using the weather research and forecasting (WRF) model driven by climate forecast system reanalysis data. Influences of parameterization schemes and model resolution on the rainfall are investigated. It is shown that the WRF simulations for SE US summer rainfall are most sensitive to cumulus schemes, moderately sensitive to planetary boundary layer schemes, and less sensitive to microphysics schemes. Among five WRF cumulus schemes analyzed in this study, the Zhang--McFarlane scheme outperforms the other four. Further analysis suggests that the superior performance of the Zhang--McFarlane scheme is attributable primarily to its capability of representing rainfall-triggering processes over the SE US, especially the positive relationship between convective available potential energy and rainfall. In addition, simulated rainfall using the Zhang--McFarlane scheme at the 15-km resolution is compared with that at a 3-km convection-permitting resolution without cumulus scheme to test whether the increased horizontal resolution can further improve the SE US rainfall simulation. Results indicate that the simulations at the 3-km resolution do not show obvious advantages over those at the 15-km resolution with the Zhang--McFarlane scheme. In conclusion, our study suggests that in order to obtain a satisfactory simulation of SE US summer rainfall, choosing a cumulus scheme that can realistically represent the convective rainfall triggering mechanism may be more effective than solely increasing model resolution.},
+  Day                      = {01},
+  Doi                      = {10.1007/s00382-013-2031-2},
+  File                     = {:full_texts/PL_articles/greyzone/Li2014.pdf:PDF},
+  ISSN                     = {1432-0894},
+  Keywords                 = {ECMWF GT, grey zone},
+  Url                      = {https://doi.org/10.1007/s00382-013-2031-2}
+}
+
+@Article{doi:10.1175/2010JAS3131.1,
+  Title                    = {Can CAPE Maintain Polar Lows?},
+  Author                   = {Linders, Torsten and Saetra, Øyvind},
+  Journal                  = {Journal of the Atmospheric Sciences},
+  Year                     = {2010},
+  Number                   = {8},
+  Pages                    = {2559-2571},
+  Volume                   = {67},
+
+  Abstract                 = { Abstract A unique dataset of atmospheric observations over the Nordic Seas has been analyzed to investigate the role of convective available potential energy (CAPE) for the energetics of polar lows. The observations were made during the flight campaign of the Norwegian International Polar Year (IPY) and The Observing System Research and Predictability Experiment (THORPEX) in February and March 2008, which specifically targeted polar lows. The data reveal virtually no conditional instability and very limited CAPE. It is suggested that the significance of CAPE values should be assessed by calculating the time scale tCAPE that is necessary for the heat fluxes from the ocean to transfer the corresponding amount of energy. Even the largest CAPE values have a tCAPE of less than 1 h. These CAPE values are associated with unconditional instability. It is concluded that the observed CAPE should be seen as a temporary stage in an energy flux rather than as an energy reservoir. Based on the findings in this investigation, it is proposed that significant reservoirs of CAPE over the marine Arctic atmosphere are impossible since CAPE production will automatically trigger convection and CAPE is consumed as it is produced. },
+  Comment                  = {Unread. Cited by McInnesEtAl2011},
+  Doi                      = {10.1175/2010JAS3131.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/2010JAS3131.1
+ 
+},
+  File                     = {:full_texts/LindersAndSatra2010.pdf:PDF},
+  Keywords                 = {polar lows, CAPE, THORPEX},
+  Url                      = { 
+ https://doi.org/10.1175/2010JAS3131.1
+ 
+}
+}
+
+@Article{mcinnes2011role,
+  Title                    = {The role of horizontal resolution for polar low simulations},
+  Author                   = {McInnes, Harold and Kristiansen, J{\o}rn and Kristj{\'a}nsson, J{\'o}n Egill and Schyberg, Harald},
+  Journal                  = {Quarterly Journal of the Royal Meteorological Society},
+  Year                     = {2011},
+  Number                   = {660},
+  Pages                    = {1674--1687},
+  Volume                   = {137},
+
+  File                     = {:full_texts/McInnesEtAl2011.pdf:PDF},
+  Keywords                 = {polar lows, grey zone, THORPEX},
+  Publisher                = {Wiley Online Library},
+  Url                      = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.849}
+}
+
+@Article{mcvicar2008wind,
+  Title                    = {Wind speed climatology and trends for Australia, 1975–2006: Capturing the stilling phenomenon and comparison with near‐surface reanalysis output},
+  Author                   = {McVicar, Tim R. and Niel, Thomas G. Van and Li, Ling Tao and Roderick, Michael L. and Rayner, David P. and Ricciardulli, Lucrezia and Donohue, Randall J.},
+  Journal                  = {Geophysical Research Letters},
+  Year                     = {2008},
+
+  Month                    = {10},
+  Number                   = {20},
+  Volume                   = {35},
+
+  Abstract                 = {Near-surface wind speeds (u) measured by terrestrial anemometers show declines (a ‘stilling’) at a range of mid-latitude sites, but two gridded u datasets (a NCEP/NCAR reanalysis output and a surface-pressure-based u model) have not reproduced the stilling observed at Australian stations. We developed Australia-wide 0.01° resolution daily u grids by interpolating measurements from an expanded anemometer network for 1975–2006. These new grids represented the magnitude and spatial-variability of observed u trends, whereas grids from reanalysis systems (NCEP/NCAR, NCEP/DOE and ERA40) essentially did not, even when minimising the sea-breeze impact. For these new grids, the Australian-averaged u trend for 1975–2006 was −0.009 m s−1 a−1 (agreeing with earlier site-based studies) with stilling over 88% of the land-surface. This new dataset can be used in numerous environmental applications, including benchmarking general circulation models to improve the representation of key parameters that govern u estimation. The methodology implemented here can be applied globally.},
+  Doi                      = {10.1029/2008GL035627},
+  File                     = {:full_texts/TimREtAl2008.pdf:PDF},
+  ISSN                     = {1944-8007},
+  Keywords                 = {climate, NEGI-course, wind speed},
+  Publisher                = {Wiley Online Library},
+  Url                      = {https://doi.org/10.1029/2008GL035627}
+}
+
+@Article{doi:10.1175/JCLI-D-16-0890.1,
+  Title                    = {Polar Mesoscale Cyclone Climatology for the Nordic Seas Based on ERA-Interim},
+  Author                   = {Michel, Clio and Terpstra, Annick and Spengler, Thomas},
+  Journal                  = {Journal of Climate},
+  Year                     = {2018},
+  Number                   = {6},
+  Pages                    = {2511-2532},
+  Volume                   = {31},
+
+  Abstract                 = { AbstractPolar mesoscale cyclones (PMCs) are automatically detected and tracked over the Nordic seas using the Melbourne University algorithm applied to ERA-Interim. The novelty of this study lies in the length of the dataset (1979–2014), using PMC tracks to infer relationships to large-scale flow patterns, and elucidating the sensitivity to different selection criteria when defining PMCs and polar lows and their genesis environments. The angle between the ambient mean and thermal wind is used to distinguish two different PMC genesis environments. The forward shear environment (thermal and mean wind have the same direction) features typical baroclinic conditions with a temperature gradient at the surface and a strong jet stream at the tropopause. The reverse shear environment (thermal and mean wind have opposite directions) features an occluded cyclone with a barotropic structure throughout the entire troposphere and a low-level jet. In contrast to previous studies, PMC occurrence features neither a significant trend nor a significant link with the North Atlantic Oscillation and the Scandinavian blocking (SB), though the SB negative pattern seems to promote reverse shear PMC genesis. The sea ice extent in the Nordic seas is not associated with overall changes in PMC occurrence but influences the genesis location. Selected cold air outbreak indices and the temperature difference between the sea surface and 500 hPa (SST − T500) show no robust link with PMC occurrence, but the characteristics of forward shear PMCs and their synoptic environments are sensitive to the choice of the SST − T500 threshold. },
+  Doi                      = {10.1175/JCLI-D-16-0890.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/JCLI-D-16-0890.1
+ 
+},
+  File                     = {:full_texts/MichelEtAl2017.pdf:PDF},
+  Keywords                 = {ECMWF GT},
+  Url                      = { 
+ https://doi.org/10.1175/JCLI-D-16-0890.1
+ 
+}
+}
+
+@Article{doi:10.1175/MWR-D-17-0194.1,
+  Title                    = {Characteristics of a Convective-Scale Weather Forecasting System for the European Arctic},
+  Author                   = {Müller, Malte and Batrak, Yurii and Kristiansen, Jørn and K{\o}ltzow, Morten A. O. and Noer, Gunnar and Korosov, Anton},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2017},
+  Number                   = {12},
+  Pages                    = {4771-4787},
+  Volume                   = {145},
+
+  Abstract                 = { AbstractIn this study a 1-yr dataset of a convective-scale atmospheric prediction system of the European Arctic (AROME-Arctic) is compared with the ECMWF’s medium-range forecasting, ensemble forecasting, and reanalysis systems, by using surface and radiosonde observations of wind and temperature. The focus is on the characteristics of the model systems in the very short-term forecast range (6–15 h), but without a specific focus on lead-time dependencies. In general, AROME-Arctic adds value to the representation of the surface characteristics. The atmospheric boundary layer thickness, during stable conditions, is overestimated in the global models, presumably because of a too diffusive turbulence scheme. Instead, AROME-Arctic shows a realistic mean thickness compared to the radiosonde observations. All models behave similarly for the upper-air verification and surprisingly, as well, in forecasting the location of a polar low in the short-range forecasts. However, when comparing with the largest wind speeds from ocean surface winds and at coastal synoptic weather stations during landfall of a polar low, AROME-Arctic shows the most realistic values. In addition to the model intercomparison, the limitation of the representation of sea ice and ocean surface characteristics on kilometer scales are discussed in detail. This major challenge is illustrated by showing the rapid drift and development of sea ice leads during a cold-air outbreak. As well, the available sea surface temperature products and a high-resolution ocean model result are compared qualitatively. New developments of satellite products, ocean–sea ice prediction models, or parameterizations, tailored toward high-resolution atmospheric Arctic prediction, are necessary to overcome this limitation. },
+  Doi                      = {10.1175/MWR-D-17-0194.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/MWR-D-17-0194.1
+ 
+},
+  File                     = {:full_texts/Muller_etal2017.pdf:PDF},
+  Keywords                 = {ECMWF GT, polar lows, Arome Arctic, arome, NEGI-cource},
+  Url                      = { 
+ https://doi.org/10.1175/MWR-D-17-0194.1
+ 
+}
+}
+
+@Article{doi:10.1175/MWR2981.1,
+  Title                    = {Applicability of Large-Scale Convection and Condensation Parameterization to Meso-γ-Scale HIRLAM: A Case Study of a Convective Event},
+  Author                   = {Niemelä, Sami and Fortelius, Carl},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2005},
+  Number                   = {8},
+  Pages                    = {2422-2435},
+  Volume                   = {133},
+
+  Abstract                 = {Abstract This paper presents a case study of a single cold air outbreak event with widespread convective precipitation over southern Finland on 25 May 2001. The purpose of the study is to investigate the applicability of the convection and condensation scheme of the High-Resolution Limited Area Model (HIRLAM) on meso-γ-scales. The study concentrates on the issue of grid-size-dependent convection parameterization. An explicit approach without the convection scheme is also examined. At the same time, the performance of an experimental nonhydrostatic version of HIRLAM is evaluated. Model simulations are conducted with three different horizontal grid spacings: 11, 5.6, and 2.8 km. Model results are compared to observed radar reflectivity data utilizing a radar simulation model, which calculates radar reflectivities from three-dimensional model output. The best results are obtained using nonhydrostatic dynamics and a grid-size-dependent convection scheme with a 5.6-km grid interval. However, even the best configuration still overestimates the area of strong reflectivity (intense precipitation). All the other combinations produce even stronger reflectivity. The grid-size-dependent convection parameterization is evidently beneficial at smaller grid spacings than 5.6 km. The nonhydrostatic model clearly outperforms its hydrostatic counterpart at the 5.6- and 2.8-km grid spacings, whereas with an 11-km grid interval, both models perform equally well.},
+  Comment                  = {Unread. Cited by McInnesEtAl2011},
+  Doi                      = {10.1175/MWR2981.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/MWR2981.1
+ 
+},
+  File                     = {:full_texts/NiemelaAndFortelius2005.pdf:PDF},
+  Keywords                 = {cold air outbreak, convection, grey zone},
+  Url                      = { 
+ https://doi.org/10.1175/MWR2981.1
+ 
+}
+}
+
+@Article{doi:10.1002/qj.846,
+  Title                    = {A climatological study of polar lows in the Nordic Seas},
+  Author                   = {Noer, Gunnar and Saetra, {\O}yvind and Lien, Trond and Gustdal, Yvonne},
+  Journal                  = {Quarterly Journal of the Royal Meteorological Society},
+  Number                   = {660},
+  Pages                    = {1762-1772},
+  Volume                   = {137},
+
+  Abstract                 = {Abstract The climatology of polar lows over the Nordic Seas has been investigated using infrared satellite images for the period between 2000 and 2009. The same region was studied in the 1980s using traditional weather charts for the period between 1972 and 1982. One motivation for the present study was to revisit this climatology, but using a different decade and taking advantage of the vastly improved coverage and dissemination of infrared satellite images since the 1980s. The fact that forecasters at the Norwegian Meteorological Institute had introduced a routine to register polar-low events systematically from 2000 and onward also provided a unique opportunity for extending the existing repository of subjectively identified polar-low observations. On average we found 12 polar-low events per year in the region of study. This is more than the earlier investigation, but we believe that this can be explained by the fact that the previous study relied almost uniquely on weather charts with very little information from ocean areas in the Nordic Seas. The largest numbers were found in January with an average of 2.8 polar-low events per year. The study reconfirms the February minimum found in previous studies, but on the basis of our data we could not show that this minimum is statistically significant. It is suggested that this may be explained as a manifestation of the coldest winter month, when a surface-pressure high over the Scandinavian mainland is common and the large-scale atmospheric flow is less favourable to polar-low formation. This hypothesis was tested by calculating the mean sea-level pressure (MSLP) anomaly for January, February and March from an atmospheric reanalysis. This revealed a positive anomaly over Scandinavia and northwest Russia not found in the pressure distributions for January and March. Copyright © 2011 Royal Meteorological Society},
+  Doi                      = {10.1002/qj.846},
+  Eprint                   = {https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/qj.846},
+  File                     = {:full_texts/polarlow_stat_b.pdf:PDF},
+  Keywords                 = {mesoscale cyclones, Arctic hurricanes, cold-air outbreaks, polar lows, ECMWF GT},
+  Url                      = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.846}
+}
+
+@Article{doi:10.1002/2016JC012086,
+  Title                    = {Waves in polar lows},
+  Author                   = {Orimolade, A. P. and Furevik, B. R. and Noer, G. and Gudmestad, O. T. and Samelson, R. M.},
+  Journal                  = {Journal of Geophysical Research: Oceans},
+  Year                     = {2016},
+  Number                   = {8},
+  Pages                    = {6470-6481},
+  Volume                   = {121},
+
+  Abstract                 = {Abstract In a rather stationary fetch, one would not expect large waves in polar low situations. However, the picture changes when one considers a moving fetch. The significant wave heights that may be associated with the recorded polar lows on the Norwegian continental shelf from December 1999 to October 2015 are estimated using a one-dimensional parametric wave model. A comparison of the measured and the forecasted significant wave heights in two recent polar low cases in the Barents Sea is presented. The estimated significant wave heights show that the values could have been up to and above 9 m. The forecasted significant wave heights considerably underestimated the measured significant wave heights in the two recent polar low cases that are considered. Furthermore, a generalization of the fetch-limited wave equation in polar lows is proposed, which allows the wind field to vary in space and time, and is shown to give results that are consistent with the one-dimensional parametric model.},
+  Doi                      = {10.1002/2016JC012086},
+  Eprint                   = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2016JC012086},
+  File                     = {:full_texts/orimolade_et_al-2016-journal_of_geophysical_research_oceans.pdf:PDF},
+  Keywords                 = {polar lows, wave growth, wave forecasts, Barents Sea, ECMWF GT},
+  Url                      = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016JC012086}
+}
+
+@Article{Papritz2018,
+  Title                    = {Characterising the local and intense water cycle during a cold air outbreak in the Nordic Seas},
+  Author                   = {Papritz, Lukas and Sodemann, Harald},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2018},
+
+  File                     = {:media/matildah/LaCieRugged/to_sync/bibliotek/full_texts/PapritzAndSodemann2018.pdf:PDF},
+  Keywords                 = {prio1},
+  Owner                    = {matildah},
+  Timestamp                = {2018.11.23}
+}
+
+@Article{randriamampianina2011exploring,
+  Title                    = {Exploring the assimilation of IASI radiances in forecasting polar lows},
+  Author                   = {Randriamampianina, Roger and Iversen, Trond and Storto, Andrea},
+  Journal                  = {Quarterly Journal of the Royal Meteorological Society},
+  Year                     = {2011},
+  Number                   = {660},
+  Pages                    = {1700--1715},
+  Volume                   = {137},
+
+  File                     = {:full_texts/RandriamampianinaEtAl2011.pdf:PDF},
+  Keywords                 = {IASI, remote sensing, assimilation, WP1, polar lows, THORPEX},
+  Publisher                = {Wiley Online Library},
+  Url                      = {https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.838}
+}
+
+@Article{Ridout2002,
+  Title                    = {Sensitivity of Tropical Pacific Convection to Dry Layers at Mid- to Upper Levels:
+Simulation and Parameterization Tests},
+  Author                   = {Ridout, James A.},
+  Journal                  = {Journal of the atmospheric sciences},
+  Year                     = {2002},
+
+  File                     = {:full_texts/Ridout2002.pdf:PDF},
+  Keywords                 = {grey zone},
+  Owner                    = {jha026},
+  Timestamp                = {2018.09.25}
+}
+
+@Article{NigelM.Roberts2007,
+  Title                    = {Scale-Selective Verification of Rainfall Accumulations from High-Resolution Forecasts
+of Convective Events},
+  Author                   = {Nigel M. Roberts and Humphrey W. Lean},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2007},
+
+  File                     = {:full_texts/NigelMRoberts2007.pdf:PDF},
+  Keywords                 = {grey zone},
+  Owner                    = {jha026},
+  Timestamp                = {2018.09.25}
+}
+
+@Article{doi:10.3402/tellusa.v67.24660,
+  Title                    = {Polar low tracks over the Nordic Seas: a 14-winter climatic analysis},
+  Author                   = {Rojo, Maxence and Claud, Chantal and Mallet, Paul-Etienne and Noer, Gunnar and Carleton, Andrew M. and Vicomte, Marie},
+  Journal                  = {Tellus A: Dynamic Meteorology and Oceanography},
+  Year                     = {2015},
+  Number                   = {1},
+  Pages                    = {24660},
+  Volume                   = {67},
+
+  Doi                      = {10.3402/tellusa.v67.24660},
+  Eprint                   = { 
+ https://doi.org/10.3402/tellusa.v67.24660
+ 
+},
+  File                     = {:full_texts/RojoEtAl2015.pdf:PDF},
+  Keywords                 = {ECMWF GT},
+  Publisher                = {Taylor \& Francis},
+  Url                      = { 
+ https://doi.org/10.3402/tellusa.v67.24660
+ 
+}
+}
+
+@Manual{STARS:2018,
+  Title                    = {Sea Surface Temperature and Altimeter Synergy for Improved Forecasting of Polar Lows},
+  Author                   = {Sætra, Øyvind and Gusdal, Yvonne and Eastwood, Steinar and Debernard, Jens and Isachsen, Pål Erik and Furevik, Birgitte and Schyberg, Harald and Noer, Gunnar},
+  Note                     = {http://polarlow.met.no/stars/},
+  Year                     = {(accessed May 16, 2018)},
+
+  Keywords                 = {ECMWF GT, polar lows}
+}
+
+@Article{samuelsenicing,
+  Title                    = {MARINE ICING OBSERVED ON KV NORDKAPP DURING A COLD AIR OUTBREAK WITH A DEVELOPING POLAR LOW IN THE BARENTS SEA},
+  Author                   = {Samuelsen, Eirik and L{\o}set, Sveinung and Edvardsen, Kåre},
+  Year                     = {2015},
+
+  Month                    = {06},
+
+  File                     = {:full_texts/SamuelsenEtAl2015.pdf:PDF},
+  Keywords                 = {ECMWF GT, vessel icing}
+}
+
+@PhdThesis{samuelsen2017prediction,
+  Title                    = {Prediction of ship icing in Arctic waters-Observations and modelling for application in operational weather forecasting},
+  Author                   = {Samuelsen, Eirik Mikal},
+  Year                     = {2017},
+
+  File                     = {:full_texts/Samuelsen2017.pdf:PDF},
+  Keywords                 = {maritime icing},
+  Publisher                = {UiT Norges arktiske universitet}
+}
+
+@Article{samuelsen2017modelled,
+  Title                    = {Modelled and observed sea-spray icing in Arctic-Norwegian waters},
+  Author                   = {Samuelsen, Eirik Mikal and Edvardsen, K{\aa}re and Graversen, Rune Grand},
+  Journal                  = {Cold Regions Science and Technology},
+  Year                     = {2017},
+  Pages                    = {54--81},
+  Volume                   = {134},
+
+  File                     = {:full_texts/SamuelsenEtAl2016.pdf:PDF},
+  Keywords                 = {maritime icing},
+  Publisher                = {Elsevier}
+}
+
+@Article{doi:10.1175/MWR-D-16-0333.1,
+  Title                    = {Comparing Polar Lows in Atmospheric Reanalyses: Arctic System Reanalysis versus ERA-Interim},
+  Author                   = {Smirnova, Julia and Golubkin, Pavel},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2017},
+  Number                   = {6},
+  Pages                    = {2375-2383},
+  Volume                   = {145},
+
+  Abstract                 = { AbstractRepresentation of polar lows in the new high-resolution Arctic System Reanalysis (ASR) was for the first time assessed and compared to that in the ERA-Interim. Substantial improvements were found in the 850-hPa relative vorticity and near-surface wind speed information. The latter was found to be in close agreement with satellite-derived estimates. Representation of polar lows from a widely used selective list in ERA-Interim and ASR was estimated as 48\% and 89\%, respectively. The proportion of polar lows represented in ASR is substantially higher than reported for other reanalyses in previous studies. Verifications were found to be sensitive to the polar low reference list used, and to the definition of a polar low. As found, when a more complete polar low list from a recent satellite-derived climatology was used, the proportion of represented events decreased to 26\% and 66\% for ERA-Interim and ASR, respectively. Variations in polar low representation in reanalyses were also observed in different regions, with the highest proportion resolved in the Norwegian Sea. Strong dependence between polar low sizes and their representation in ERA-Interim was found. In the case of ASR, polar low representation remains constant in the size range of 200–500 km and slightly decreases only for the smallest systems with diameters less than 200 km. Usage of the strict threshold of 43 K for the atmospheric static stability criterion was found to exclude a considerable number of otherwise well-represented polar lows. },
+  Doi                      = {10.1175/MWR-D-16-0333.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/MWR-D-16-0333.1
+ 
+},
+  File                     = {:full_texts/smirnova_and_golubkin_2016.pdf:PDF},
+  Keywords                 = {ECMWF GT, polar lows},
+  Url                      = { 
+ https://doi.org/10.1175/MWR-D-16-0333.1
+ 
+}
+}
+
+@Article{JuliaE.Smirnova2015,
+  Title                    = {Polar low climatology over the Nordic and Barents seas based on satellite passive microvawe data},
+  Author                   = {Smirnova, Julia E. and Golubkin, Pavel A. and Bobylev, Leonid P. and Zaboloskikh, Elizaveta V. and Chapron, Bertrand},
+  Journal                  = {Geophysical Research Letters},
+  Year                     = {2015},
+
+  File                     = {:full_texts/smirnova_pl_letter.pdf:PDF},
+  Keywords                 = {polar lows},
+  Owner                    = {jha026},
+  Timestamp                = {2018.10.04}
+}
+
+@Article{Stein2015,
+  Title                    = {The DYMECS Project: A Statistical Approach for the Evaluation of Convective Storms in High-Resolution NWP Models},
+  Author                   = {Stein, Thorwald H. M. and Hogan, Robin J. and Clark, Peter A. and Halliwell, Carol E. and Hanley, Kirsty E. and Lean, Humphrey W. and Nicol, John C. and Plant, Robert S.},
+  Journal                  = {Bulletin of the American Meteorological Society},
+  Year                     = {2015},
+  Number                   = {6},
+  Pages                    = {939-951},
+  Volume                   = {96},
+
+  Abstract                 = { Abstract A new frontier in weather forecasting is emerging by operational forecast models now being run at convection-permitting resolutions at many national weather services. However, this is not a panacea; significant systematic errors remain in the character of convective storms and rainfall distributions. The Dynamical and Microphysical Evolution of Convective Storms (DYMECS) project is taking a fundamentally new approach to evaluate and improve such models: rather than relying on a limited number of cases, which may not be representative, the authors have gathered a large database of 3D storm structures on 40 convective days using the Chilbolton radar in southern England. They have related these structures to storm life cycles derived by tracking features in the rainfall from the U.K. radar network and compared them statistically to storm structures in the Met Office model, which they ran at horizontal grid length between 1.5 km and 100 m, including simulations with different subgrid mixing length. The authors also evaluated the scale and intensity of convective updrafts using a new radar technique. They find that the horizontal size of simulated convective storms and the updrafts within them is much too large at 1.5-km resolution, such that the convective mass flux of individual updrafts can be too large by an order of magnitude. The scale of precipitation cores and updrafts decreases steadily with decreasing grid lengths, as does the typical storm lifetime. The 200-m grid-length simulation with standard mixing length performs best over all diagnostics, although a greater mixing length improves the representation of deep convective storms. },
+  Doi                      = {10.1175/BAMS-D-13-00279.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/BAMS-D-13-00279.1
+ 
+},
+  Keywords                 = {ECMWF GT},
+  Url                      = { 
+ https://doi.org/10.1175/BAMS-D-13-00279.1
+ 
+}
+}
+
+@Article{doi:10.1002/qj.3309,
+  Title                    = {An objective global climatology of polar lows based on reanalysis data},
+  Author                   = {Stoll, Patrick and Graversen, Rune G. and Noer, Gunnar and Hodges, Kevin},
+  Journal                  = {Quarterly Journal of the Royal Meteorological Society},
+  Number                   = {ja},
+  Volume                   = {0},
+
+  Abstract                 = {Here we present an objective global climatology of polar lows. In order to obtain objective detection criteria, the efficacy of several parameters for separating polar lows from other cyclones has been compared. The comparison and the climatology are based on the ERA‐Interim reanalysis from 1979 ‐ 2016 and the high‐resolution Arctic System Reanalysis from 2000 ‐ 2012. The most effective parameters in separating polar lows from other extra‐tropical cyclones were found to be the difference between the sea‐level pressure at the centre of the low and its surroundings, the difference in the potential temperature between the sea surface and the 500 hPa level, and the tropopause wind speed poleward of the system. Other parameters often used to identify polar lows, such as the 10 m wind speed and the temperature difference between the sea surface and the 700 hPa level, were found to be less effective. The climatologies reveal that polar lows occur in all marine basins at high latitudes, but with high occurrence density in the vicinity of the sea‐ice edge and coastal zones. The regions showing the highest degree of polar‐low activity are the Denmark Strait and the Nordic Seas, especially for the most intense polar lows. In the North Atlantic and Pacific, the main polar‐low season ranges from November to March. In the Southern Hemisphere, polar lows are mainly detected between 50 ‐ 65 S from April to October, indicating that this hemisphere compared to its northern counterpart has a two months longer, but less intense, polar‐low season. No significant hemispheric long‐term trends are observed, although some regions, such as the Denmark Strait and the Nordic Seas, experience significant downward and upward trends in polar lows, respectively, over the last decades. For intense polar lows, a significant decaying trend has been observed for the Northern Hemisphere.},
+  Doi                      = {10.1002/qj.3309},
+  Eprint                   = {https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/qj.3309},
+  Keywords                 = {mesoscale cyclone, Arctic hurricane, marine cold‐air outbreak, detection/ identification criteria, tracking algorithm, long‐term trend, polar lows, ECMWF GT},
+  Url                      = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.3309}
+}
+
+@Article{doi:10.1175/MWR-D-15-0314.1,
+  Title                    = {Forward and Reverse Shear Environments during Polar Low Genesis over the Northeast Atlantic},
+  Author                   = {Terpstra, Annick and Michel, Clio and Spengler, Thomas},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2016},
+  Number                   = {4},
+  Pages                    = {1341-1354},
+  Volume                   = {144},
+
+  Abstract                 = { AbstractThe synoptic and subsynoptic environments associated with polar low genesis are examined. Ambient pre–polar low environments are classified as forward or reverse shear conditions based on the angle between the thermal and mean wind. Forward shear environments are associated with a synoptic-scale ridge over Scandinavia, featuring a zonally oriented baroclinic zone extending throughout the troposphere with a wind speed maximum at the tropopause. Similar to typical midlatitude cyclogenesis, concurrent wavelike development occurs both in the lower and upper troposphere along the baroclinic zone and the mean propagation direction is eastward, parallel to isolines of sea surface temperature. Reverse shear environments exhibit a distinctly different structure and are characterized by a trough over Scandinavia, associated with a synoptic-scale, occluded cyclone. The genesis area exhibits strong cold air advection on its right-hand side and polar low development occurs on the warm side of an intense low-level jet. The environment resembles the characteristics conducive to secondary development associated with frontal instability. Polar lows developing in this configuration propagate mainly southward, perpendicular to isolines of sea surface temperature. The two genesis environments exhibit similar temperature differences between the sea surface and atmosphere near the surface, yet the magnitude of the surface fluxes is approximately double during reverse shear conditions due to stronger low-level winds. The ratio between surface sensible and latent heat fluxes is close to unity for both shear environments. },
+  Doi                      = {10.1175/MWR-D-15-0314.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/MWR-D-15-0314.1
+ 
+},
+  File                     = {:full_texts/terpstra_etal_2016.pdf:PDF},
+  Keywords                 = {ECMWF GT, polar lows},
+  Url                      = { 
+ https://doi.org/10.1175/MWR-D-15-0314.1
+ 
+}
+}
+
+@Article{tuller2004measured,
+  Title                    = {Measured wind speed trends on the west coast of Canada},
+  Author                   = {Tuller, Stanton E.},
+  Journal                  = {International Journal of Climatology},
+  Year                     = {2004},
+
+  Month                    = {9},
+  Number                   = {11},
+  Pages                    = {1359--1374},
+  Volume                   = {24},
+
+  Abstract                 = {Trends in measured wind speed are discussed for four stations on the west coast of Canada. Periods of record vary with the station. They begin in the late 1940s or the 1950s and run through to the early to mid 1990s. The most prominent feature of the time series was a decline in mean annual and winter wind speeds at Cape St James, Victoria International Airport, and Vancouver International Airport during the middle portion of the record. Declines in mean annual wind speed are matched by increases in the percentage of calms and decreases in high wind speed observations. The pressure gradient between Victoria, Vancouver and Comox, the Pacific North American index, the Pacific decadal oscillation index, and other climate elements in British Columbia and the northwestern USA show trends at roughly the same time, indicating a natural cause of the wind speed decrease. Comox Airport mean wind speeds increased, however, perhaps the result of reduced friction in the vicinity of the anemometer outweighing the decrease in the regional pressure gradient. Copyright © 2004 Royal Meteorological Society},
+  Doi                      = {10.1002/joc.1073},
+  File                     = {:full_texts/StantonTuller2004.pdf:PDF},
+  ISSN                     = {1097-0088},
+  Keywords                 = {Climate, Wind Speed, NEGI-course},
+  Publisher                = {Wiley Online Library},
+  Url                      = {https://doi.org/10.1002/joc.1073}
+}
+
+@Article{doi:10.1175/1520-0493(1997)125<0527:TRDOEM>2.0.CO;2,
+  Title                    = {The Resolution Dependence of Explicitly Modeled Convective Systems},
+  Author                   = {Weisman, Morris L. and Skamarock, William C. and Klemp, Joseph B.},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {1997},
+  Number                   = {4},
+  Pages                    = {527-548},
+  Volume                   = {125},
+
+  Abstract                 = { Abstract The representation of convective processes within mesoscale models with horizontal grid sizes smaller than 20 km has become a major concern for the simulation of mesoscale weather systems. In this paper, the authors investigate the effects of grid resolution on convective processes using a nonhydrostatic cloud model to help clarify the capabilities and limitations of using explicit physics to resolve convection in mesoscale models. By varying the horizontal grid interval between 1 and 12 km, the degradation in model response as the resolution is decreased is documented and the processes that are not properly represented with the coarser resolutions are identified. Results from quasi-three-dimensional squall-line simulations for midlatitude-type environments suggest that resolutions of 4 km are sufficient to reproduce much of the mesoscale structure and evolution of the squall-line-type convective systems produced in 1-km simulations. The evolution at coarser resolutions is characteristically slower, with the resultant mature mesoscale circulation becoming stronger than those produced in the 1-km case. It is found that the slower evolution in the coarse-resolution simulations is largely a result of the delayed strengthening of the convective cold pool, which is crucial to the evolution of a mature, upshear-tilted convective system. The relative success in producing realistic circulation patterns at later times for these cases occurs because the cold pool does eventually force the system to grow upscale, allowing it to be better resolved. The stronger circulation results from an overprediction of the vertical mass transport produced by the convection at the leading edge of the system, due to the inability of the coarse-resolution simulations to properly represent nonhydrostatic effects. },
+  Doi                      = {10.1175/1520-0493(1997)125<0527:TRDOEM>2.0.CO;2},
+  Eprint                   = { 
+ https://doi.org/10.1175/1520-0493(1997)125<0527:TRDOEM>2.0.CO;2
+ 
+},
+  Keywords                 = {ECMWF GT},
+  Url                      = { 
+ https://doi.org/10.1175/1520-0493(1997)125<0527:TRDOEM>2.0.CO;2
+ 
+}
+}
+
+@Article{doi:10.1175/JAS-D-16-0307.1,
+  Title                    = {Quantifying the Effects of Horizontal Grid Length and Parameterized Convection on the Degree of Convective Organization Using a Metric of the Potential for Convective Interaction},
+  Author                   = {White, B. A. and Buchanan, A. M. and Birch, C. E. and Stier, P. and Pearson, K. J.},
+  Journal                  = {Journal of the Atmospheric Sciences},
+  Year                     = {2018},
+  Number                   = {2},
+  Pages                    = {425-450},
+  Volume                   = {75},
+
+  Abstract                 = { AbstractThe organization of deep convection and its misrepresentation in many global models is the focus of much current interest. A new method is presented for quantifying convective organization based on the identification of convective objects and subsequent derivation of object numbers, areas, and separation distances to describe the degree of convective organization. These parameters are combined into a “convection organization potential” based on the physical principle of an interaction potential between pairs of convective objects. This technique is applied to simulated and observed fields of outgoing longwave radiation (OLR) over the West African monsoon region using data from Met Office Unified Model simulations and satellite observations made by the Geostationary Earth Radiation Budget (GERB) instrument. The method is evaluated by using it to quantify differences between models with different horizontal grid lengths and representations of convection. Distributions of OLR, precipitation and organization parameters, the diurnal cycle of convection, and relationships between the meteorology in different states of organization are compared. Switching from a configuration with parameterized convection to one that allows the model to resolve convective processes at the model grid scale is the leading-order factor improving some aspects of model performance, while increased model resolution is the dominant factor for others. However, no single model configuration performs best compared to observations, indicating underlying deficiencies in both model scaling and process understanding. },
+  Doi                      = {10.1175/JAS-D-16-0307.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/JAS-D-16-0307.1
+ 
+},
+  File                     = {:full_texts/WhiteEtAl2018.pdf:PDF},
+  Keywords                 = {ECMWF GT, grey zone},
+  Url                      = {https://doi.org/10.1175/JAS-D-16-0307.1}
+}
+
+@Article{wolff2015derivation,
+  Title                    = {Derivation of a new continuous adjustment function for correcting wind-induced loss of solid precipitation: results of a Norwegian field study},
+  Author                   = {Wolff, MA and Isaksen, K and Petersen-{\O}verleir, A and {\O}demark, K and Reitan, T and Br{\ae}kkan, R},
+  Journal                  = {Hydrology and Earth System Sciences},
+  Year                     = {2015},
+  Number                   = {2},
+  Pages                    = {951--967},
+  Volume                   = {19},
+
+  Keywords                 = {WP1},
+  Publisher                = {Copernicus GmbH},
+  Url                      = {https://www.hydrol-earth-syst-sci.net/19/951/2015/hess-19-951-2015.html}
+}
+
+@Article{doi:10.1175/2010MWR3122.1,
+  Title                    = {Intercomparison of Bulk Microphysics Schemes in Model Simulations of Polar Lows},
+  Author                   = {Wu, Longtao and Petty, Grant W.},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2010},
+  Number                   = {6},
+  Pages                    = {2211-2228},
+  Volume                   = {138},
+
+  Abstract                 = { Abstract Four spiraliform polar lows, two over the Sea of Japan and two over the Nordic Seas, were simulated with the Weather Research and Forecasting (WRF) model. Five mixed-phase bulk microphysics schemes (BMS) provided with WRF were run respectively in order to compare their performance in polar low simulations. The observed cloud-top temperatures (CTTs) were compared with the model simulations. Precipitation rates estimated by the Advanced Microwave Scanning Radiometer for Earth Observing System (AMSR-E) and gauge-calibrated surface radar precipitation estimates around Japan were also used for validation. Although definitive validation is not possible with the available data, results from the WRF Single-Moment 6-class (WSM6) scheme appear to reproduce the cloud and precipitation processes most realistically. The model produced precipitation intensities comparable to validation products over the Sea of Japan. However, in the Nordic Seas cases, all five schemes produced significantly more precipitation than the AMSR-E estimates even though the latter estimates are known to average slightly high in the same region when validated against monthly totals measured at Jan Mayen Island (Norway). },
+  Doi                      = {10.1175/2010MWR3122.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/2010MWR3122.1
+ 
+},
+  File                     = {:full_texts/WuAndPetty2009.pdf:PDF},
+  Keywords                 = {ECMWF GT},
+  Url                      = { 
+ https://doi.org/10.1175/2010MWR3122.1
+ 
+}
+}
+
+@Article{doi:10.1175/JAS4001.1,
+  Title                    = {Dependence of Polar Low Development on Baroclinicity and Physical Processes: An Idealized High-Resolution Numerical Experiment},
+  Author                   = {Yanase, Wataru and Niino, Hiroshi},
+  Journal                  = {Journal of the Atmospheric Sciences},
+  Year                     = {2007},
+  Number                   = {9},
+  Pages                    = {3044-3067},
+  Volume                   = {64},
+
+  Abstract                 = { Abstract Polar low dynamics in an idealized atmosphere in which baroclinicity, stratification, and average temperature are varied in the typically observed range is investigated using a 5-km-resolution nonhydrostatic model. The baroclinicity is found to be the most important factor that strongly controls the polar low dynamics. When the baroclinicity is weak, a small, nearly axisymmetric vortex develops through a cooperative interaction between the vortex flow and cumulus convection. The surface friction promotes the vortex dynamics by transporting the sensible heat and moisture into the vortex center. The vortex development has a strong sensitivity to the initial perturbation. As the baroclinicity is increased, most of the characteristics of polar low dynamics change smoothly without showing any significant regime shift. The vortex for an intermediate baroclinicity, however, moves northward, which is a unique behavior. This is caused by vortex stretching on the northern side of the vortex where intense convection produces a stronger updraft. When the baroclinicity is strong, a larger vortex with a comma-shaped cloud pattern develops. The condensational heating, baroclinic conversion from the basic available potential energy, and conversion from the basic kinetic energy through the vertical shear all contribute to the vortex development, which depends little on the initial perturbation. The above relations between baroclinicity and vortex dynamics are proved to be robust in the typically observed range of stratification and average temperature. },
+  Comment                  = {unread. Cited by McInnesEtAl2011},
+  Doi                      = {10.1175/JAS4001.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/JAS4001.1
+ 
+},
+  File                     = {:full_texts/YanaseAndNiino2007.pdf:PDF},
+  Keywords                 = {polar lows},
+  Url                      = { 
+ https://doi.org/10.1175/JAS4001.1
+ 
+}
+}
+
+@Article{Yano2018,
+  Title                    = {Scientific Challenges of Convective-Scale Numerical Weather Prediction},
+  Author                   = {Yano, Jun-Ichi and Ziemiański, Michał Z. and Cullen, Mike and Termonia, Piet and Onvlee, Jeanette and Bengtsson, Lisa and Carrassi, Alberto and Davy, Richard and Deluca, Anna and Gray, Suzanne L. and Homar, Víctor and Köhler, Martin and Krichak, Simon and Michaelides, Silas and Phillips, Vaughan T. J. and Soares, Pedro M. M. and Wyszogrodzki, Andrzej A.},
+  Journal                  = {Bulletin of the American Meteorological Society},
+  Year                     = {2018},
+  Number                   = {4},
+  Pages                    = {699-710},
+  Volume                   = {99},
+
+  Abstract                 = { AbstractAfter extensive efforts over the course of a decade, convective-scale weather forecasts with horizontal grid spacings of 1–5 km are now operational at national weather services around the world, accompanied by ensemble prediction systems (EPSs). However, though already operational, the capacity of forecasts for this scale is still to be fully exploited by overcoming the fundamental difficulty in prediction: the fully three-dimensional and turbulent nature of the atmosphere. The prediction of this scale is totally different from that of the synoptic scale (103 km), with slowly evolving semigeostrophic dynamics and relatively long predictability on the order of a few days.Even theoretically, very little is understood about the convective scale compared to our extensive knowledge of the synoptic-scale weather regime as a partial differential equation system, as well as in terms of the fluid mechanics, predictability, uncertainties, and stochasticity. Furthermore, there is a requirement for a drastic modification of data assimilation methodologies, physics (e.g., microphysics), and parameterizations, as well as the numerics for use at the convective scale. We need to focus on more fundamental theoretical issues—the Liouville principle and Bayesian probability for probabilistic forecasts—and more fundamental turbulence research to provide robust numerics for the full variety of turbulent flows.The present essay reviews those basic theoretical challenges as comprehensibly as possible. The breadth of the problems that we face is a challenge in itself: an attempt to reduce these into a single critical agenda should be avoided. },
+  Doi                      = {10.1175/BAMS-D-17-0125.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/BAMS-D-17-0125.1
+ 
+},
+  File                     = {:full_texts/Yano2018.pdf:PDF},
+  Keywords                 = {ECMWF GT},
+  Url                      = { 
+ https://doi.org/10.1175/BAMS-D-17-0125.1
+ 
+}
+}
+
+@Article{Young451,
+  Title                    = {Global Trends in Wind Speed and Wave Height},
+  Author                   = {Young, I. R. and Zieger, S. and Babanin, A. V.},
+  Journal                  = {Science},
+  Year                     = {2011},
+  Number                   = {6028},
+  Pages                    = {451--455},
+  Volume                   = {332},
+
+  Abstract                 = {Studies of climate change typically consider measurements or predictions of temperature over extended periods of time. Climate, however, is much more than temperature. Over the oceans, changes in wind speed and the surface gravity waves generated by such winds play an important role. We used a 23-year database of calibrated and validated satellite altimeter measurements to investigate global changes in oceanic wind speed and wave height over this period. We find a general global trend of increasing values of wind speed and, to a lesser degree, wave height, over this period. The rate of increase is greater for extreme events as compared to the mean condition.},
+  Doi                      = {10.1126/science.1197219},
+  Eprint                   = {http://science.sciencemag.org/content/332/6028/451.full.pdf},
+  File                     = {:full_texts/YoungEtAl2011.pdf:PDF},
+  ISSN                     = {0036-8075},
+  Keywords                 = {Climate, wind speed, NEGI-course},
+  Publisher                = {American Association for the Advancement of Science},
+  Url                      = {http://science.sciencemag.org/content/332/6028/451}
+}
+
+@Article{Yu2010,
+  Title                    = {Role of convective parameterization in simulations of a convection band at grey-zone resolutions},
+  Author                   = {Yu, Xing and Lee, Tae-Young},
+  Journal                  = {Tellus A: Dynamic Meteorology and Oceanography},
+  Year                     = {2010},
+  Number                   = {5},
+  Pages                    = {617-632},
+  Volume                   = {62},
+
+  Doi                      = {10.1111/j.1600-0870.2010.00470.x},
+  Eprint                   = { 
+ https://doi.org/10.1111/j.1600-0870.2010.00470.x
+ 
+},
+  File                     = {:full_texts/Yu2010.pdf:PDF},
+  Keywords                 = {grey zone, ECMWF GT},
+  Publisher                = {Taylor \& Francis},
+  Url                      = { 
+ https://doi.org/10.1111/j.1600-0870.2010.00470.x
+ 
+}
+}
+
+@Article{doi:10.1029/2008GL035769,
+  Title                    = {A long-term climatology of North Atlantic polar lows},
+  Author                   = {Zahn, Matthias and von Storch, Hans},
+  Journal                  = {Geophysical Research Letters},
+  Year                     = {2008},
+  Number                   = {22},
+  Volume                   = {35},
+
+  Abstract                 = {A dynamical downscaling of the 6-hourly 1948–2006 NCEP/NCAR re-analyses for the subarctic region of the North Atlantic has been used to derive a climatology of polar lows by means of a tracking algorithm based on the simulated bandpass filtered MSLP-fields. This climatology is consistent with the limited observational evidence in terms of frequency and spatial distribution. The climatology exhibits strong year-to-year variability but weak decadal variability and a negligible trend. A Canonical Correlation Analysis describes the conditioning of the formation of polar lows by characteristic meridional seasonal mean flow regimes, which favor cold air outbreaks and upper air troughs.},
+  Doi                      = {10.1029/2008GL035769},
+  Eprint                   = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008GL035769},
+  File                     = {:full_texts/ZahnAndStorch2008.pdf:PDF},
+  Keywords                 = {polar low, climatology, North Atlantic, ECMWF GT},
+  Url                      = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2008GL035769}
+}
+
+@Article{doi:10.1175/MWR-D-14-00064.1,
+  Title                    = {Can Polar Lows be Objectively Identified and Tracked in the ECMWF Operational Analysis and the ERA-Interim Reanalysis?},
+  Author                   = {Zappa, Giuseppe and Shaffrey, Len and Hodges, Kevin},
+  Journal                  = {Monthly Weather Review},
+  Year                     = {2014},
+  Number                   = {8},
+  Pages                    = {2596-2608},
+  Volume                   = {142},
+
+  Abstract                 = { AbstractPolar lows are maritime mesocyclones associated with intense surface wind speeds and oceanic heat fluxes at high latitudes. The ability of the Interim ECMWF Re-Analysis (ERA-Interim, hereafter ERAI) to represent polar lows in the North Atlantic is assessed by comparing ERAI and the ECMWF operational analysis for the period 2008–11. First, the representation of a set of satellite-observed polar lows over the Norwegian and Barents Seas in the operational analysis and ERAI is analyzed. Then, the possibility of directly identifying and tracking the polar lows in the operational analysis and ERAI is explored using a tracking algorithm based on 850-hPa vorticity with objective identification criteria on cyclone dynamical intensity and atmospheric static stability. All but one of the satellite-observed polar lows with a lifetime of at least 6 h have an 850-hPa vorticity signature of a collocated mesocyclone in both the operational analysis and ERAI for most of their life cycles. However, the operational analysis has vorticity structures that better resemble the observed cloud patterns and stronger surface wind speed intensities compared to those in ERAI. By applying the objective identification criteria, about 55\% of the satellite-observed polar lows are identified and tracked in ERAI, while this fraction increases to about 70\% in the operational analysis. Particularly in ERAI, the remaining observed polar lows are mainly not identified because they have too weak wind speed and vorticity intensity compared to the tested criteria. The implication of the tendency of ERAI to underestimate the polar low dynamical intensity for future studies of polar lows is discussed. },
+  Comment                  = {Cites McInnesEtAl2011},
+  Doi                      = {10.1175/MWR-D-14-00064.1},
+  Eprint                   = { 
+ https://doi.org/10.1175/MWR-D-14-00064.1
+ 
+},
+  File                     = {:full_texts/zappa_etal2014.pdf:PDF},
+  Keywords                 = {ECMWF GT, polar lows},
+  Url                      = {https://doi.org/10.1175/MWR-D-14-00064.1}
+}
+
+@comment{jabref-meta: groupsversion:3;}
+
+@comment{jabref-meta: groupstree:
+0 AllEntriesGroup:;
+1 KeywordGroup:NEGI-Andoya\;0\;keywords\;NEGI-course\;0\;0\;;
+}
+
