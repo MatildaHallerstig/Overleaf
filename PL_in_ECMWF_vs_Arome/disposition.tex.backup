@@ -1,0 +1,81 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+
+%opening
+\title{Polar lows in the ECMWF and Arome numerical weather prediction models}
+\author{Matilda Hallerstig, Erik Kolstad, Linus Magnusson}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+  Abstract
+\end{abstract}
+
+\section{Introduction}
+
+  \subsection{Paragraph}
+    Short about polar lows, what they are, why they are important, what the challenges are.
+  \subsection{Paragraph}
+    What the convective grey zone is, a litterature review on work on relations between convective parameterization and horizontal resolution, particularily in polar areas.
+  \subsection{Paragraph}
+    Short about the models (ECMWF and Arome) and why they are important. (operational in the Atlantic sector of the Arctic, increasing activity in this area)
+    Also mention observations used. (scatterometer. evt. SAR)
+
+\section{Data and methods}
+
+\subsection{Models}
+  Describe models
+  \begin{itemize}
+    \item table showing differences between them. (resolution, hydrostatic/non-hydrostatic, regional/global, convection parameterisations, etc)
+    \item Figure with the domain of Arome Arctic 
+    \item Ask Rune about Arome with deep convection?
+  \end{itemize}
+
+  \subsection{Observations}
+    Description of the observation data and how it was processed
+    \begin{itemize}
+      \item Map with geographical coverage (Can it be combined with the map of Arome Arctic domain?)
+      \item Evt. figure or something showing temporal coverage of observations?
+    \end{itemize}
+    
+  \subsection{Diagnostic methods}
+    How the tracking was done. What parameters are studied, and why.
+  \subsection{Polar low cases}
+    \begin{itemize}
+      \item Description of polar low cases
+      \item Dates and times for the model runs
+      \item Maps with tracks?
+    \end{itemize}
+
+\section{Results}
+  \begin{itemize} 
+
+    \item Time series along tracks
+
+    \item Scatterplots for an overview of model performance
+
+    \item horizontal maps showing the structure of convective cells
+
+    \item Vertical cross-sections to study vertical structure and dynamics of PLs?
+
+  \end{itemize}
+\section{Discussion}
+  \subsection{paragraph}
+    Pros and cons with different types of observations
+  \subsection{paragraph}
+    The role of convection and horizontal resolution, why did convection matter more in this case?
+  \subsection{paragraph}
+    Other differences between EC and Arome and how they might have affected the results. (global/regional, hydrostatic/nonhydrostatic)
+
+
+\section{Conclusion}
+  Convection mattered more than horizontal resolution.
+  Explain how this knowledge is useful for further work.
+
+\section{Acknowledgements}
+
+\section{References}
+
+\end{document}
